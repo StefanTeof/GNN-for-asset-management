@@ -1,0 +1,3276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="Sector" attr.type="string"/>
+<key id="d0" for="node" attr.name="Name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="A">
+  <data key="d0">Agilent Technologies</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="AAL">
+  <data key="d0">American Airlines Group</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="AAP">
+  <data key="d0">Advance Auto Parts</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="AAPL">
+  <data key="d0">Apple</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="ABBV">
+  <data key="d0">AbbVie</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="ABC">
+  <data key="d0">AmerisourceBergen</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="ABT">
+  <data key="d0">Abbott Laboratories</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="ACN">
+  <data key="d0">Accenture</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="ADBE">
+  <data key="d0">Adobe</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="ADI">
+  <data key="d0">Analog Devices</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="ADM">
+  <data key="d0">ADM</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="ADP">
+  <data key="d0">Automatic Data Processing</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="ADS"/>
+<node id="ADSK">
+  <data key="d0">Autodesk</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="AEE">
+  <data key="d0">Ameren Corp</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="AEP">
+  <data key="d0">American Electric Power</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="AES">
+  <data key="d0">AES Corp</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="AET"/>
+<node id="AFL">
+  <data key="d0">Aflac</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="AGN"/>
+<node id="AIG">
+  <data key="d0">American International Group</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="AIV"/>
+<node id="AIZ">
+  <data key="d0">Assurant</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="AJG">
+  <data key="d0">Arthur J. Gallagher &amp; Co.</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="AKAM">
+  <data key="d0">Akamai Technologies</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="ALB">
+  <data key="d0">Albemarle Corporation</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="ALGN">
+  <data key="d0">Align Technology</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="ALK">
+  <data key="d0">Alaska Air Group</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="ALL">
+  <data key="d0">Allstate Corp</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="ALLE">
+  <data key="d0">Allegion</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="ALXN"/>
+<node id="AMAT">
+  <data key="d0">Applied Materials</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="AMD">
+  <data key="d0">Advanced Micro Devices</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="AME">
+  <data key="d0">Ametek</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="AMG"/>
+<node id="AMGN">
+  <data key="d0">Amgen</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="AMP">
+  <data key="d0">Ameriprise Financial</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="AMT">
+  <data key="d0">American Tower</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="AMZN">
+  <data key="d0">Amazon</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="ANDV"/>
+<node id="ANSS">
+  <data key="d0">Ansys</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="ANTM">
+  <data key="d0">Anthem</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="AON">
+  <data key="d0">Aon</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="AOS">
+  <data key="d0">A. O. Smith</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="APA">
+  <data key="d0">APA Corporation</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="APC"/>
+<node id="APD">
+  <data key="d0">Air Products &amp; Chemicals</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="APH">
+  <data key="d0">Amphenol</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="APTV">
+  <data key="d0">Aptiv</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="ARE">
+  <data key="d0">Alexandria Real Estate Equities</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="ARNC"/>
+<node id="ATVI">
+  <data key="d0">Activision Blizzard</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="AVB">
+  <data key="d0">AvalonBay Communities</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="AVGO">
+  <data key="d0">Broadcom</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="AVY">
+  <data key="d0">Avery Dennison</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="AWK">
+  <data key="d0">American Water Works</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="AXP">
+  <data key="d0">American Express</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="AYI"/>
+<node id="AZO">
+  <data key="d0">AutoZone</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="BA">
+  <data key="d0">Boeing</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="BAC">
+  <data key="d0">Bank of America</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="BAX">
+  <data key="d0">Baxter International</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="BBT"/>
+<node id="BBY">
+  <data key="d0">Best Buy</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="BDX">
+  <data key="d0">Becton Dickinson</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="BEN">
+  <data key="d0">Franklin Resources</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="BF.B">
+  <data key="d0">Brown–Forman</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="BHF"/>
+<node id="BHGE"/>
+<node id="BIIB">
+  <data key="d0">Biogen</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="BK">
+  <data key="d0">BNY Mellon</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="BLK">
+  <data key="d0">BlackRock</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="BLL">
+  <data key="d0">Ball Corp</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="BMY">
+  <data key="d0">Bristol Myers Squibb</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="BRK.B">
+  <data key="d0">Berkshire Hathaway</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="BSX">
+  <data key="d0">Boston Scientific</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="BWA">
+  <data key="d0">BorgWarner</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="BXP">
+  <data key="d0">Boston Properties</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="C">
+  <data key="d0">Citigroup</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="CA"/>
+<node id="CAG">
+  <data key="d0">Conagra Brands</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="CAH">
+  <data key="d0">Cardinal Health</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="CAT">
+  <data key="d0">Caterpillar</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="CB">
+  <data key="d0">Chubb</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="CBG"/>
+<node id="CBOE">
+  <data key="d0">Cboe Global Markets</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="CBS"/>
+<node id="CCI">
+  <data key="d0">Crown Castle</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="CCL">
+  <data key="d0">Carnival Corporation</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="CDNS">
+  <data key="d0">Cadence Design Systems</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="CELG"/>
+<node id="CERN">
+  <data key="d0">Cerner</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="CF">
+  <data key="d0">CF Industries</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="CFG">
+  <data key="d0">Citizens Financial Group</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="CHD">
+  <data key="d0">Church &amp; Dwight</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="CHK"/>
+<node id="CHRW">
+  <data key="d0">C. H. Robinson</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="CHTR">
+  <data key="d0">Charter Communications</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="CI">
+  <data key="d0">Cigna</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="CINF">
+  <data key="d0">Cincinnati Financial</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="CL">
+  <data key="d0">Colgate-Palmolive</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="CLX">
+  <data key="d0">Clorox</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="CMA">
+  <data key="d0">Comerica</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="CMCSA">
+  <data key="d0">Comcast</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="CME">
+  <data key="d0">CME Group</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="CMG">
+  <data key="d0">Chipotle Mexican Grill</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="CMI">
+  <data key="d0">Cummins</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="CMS">
+  <data key="d0">CMS Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="CNC">
+  <data key="d0">Centene Corporation</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="CNP">
+  <data key="d0">CenterPoint Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="COF">
+  <data key="d0">Capital One Financial</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="COG"/>
+<node id="COL"/>
+<node id="COO">
+  <data key="d0">The Cooper Companies</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="COP">
+  <data key="d0">ConocoPhillips</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="COST">
+  <data key="d0">Costco</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="COTY"/>
+<node id="CPB">
+  <data key="d0">Campbell Soup</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="CRM">
+  <data key="d0">Salesforce</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="CSCO">
+  <data key="d0">Cisco Systems</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="CSRA"/>
+<node id="CSX">
+  <data key="d0">CSX</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="CTAS">
+  <data key="d0">Cintas Corporation</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="CTL"/>
+<node id="CTSH">
+  <data key="d0">Cognizant Technology Solutions</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="CTXS">
+  <data key="d0">Citrix Systems</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="CVS">
+  <data key="d0">CVS Health</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="CVX">
+  <data key="d0">Chevron Corporation</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="CXO"/>
+<node id="D">
+  <data key="d0">Dominion Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="DAL">
+  <data key="d0">Delta Air Lines</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="DE">
+  <data key="d0">Deere &amp; Co.</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="DFS">
+  <data key="d0">Discover Financial Services</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="DG">
+  <data key="d0">Dollar General</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="DGX">
+  <data key="d0">Quest Diagnostics</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="DHI">
+  <data key="d0">D. R. Horton</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="DHR">
+  <data key="d0">Danaher Corporation</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="DIS">
+  <data key="d0">The Walt Disney Company</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="DISCA">
+  <data key="d0">Discovery (Series A)</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="DISCK">
+  <data key="d0">Discovery (Series C)</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="DISH">
+  <data key="d0">Dish Network</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="DLR">
+  <data key="d0">Digital Realty Trust</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="DLTR">
+  <data key="d0">Dollar Tree</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="DOV">
+  <data key="d0">Dover Corporation</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="DPS"/>
+<node id="DRE">
+  <data key="d0">Duke Realty Corp</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="DRI">
+  <data key="d0">Darden Restaurants</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="DTE">
+  <data key="d0">DTE Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="DUK">
+  <data key="d0">Duke Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="DVA">
+  <data key="d0">DaVita</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="DVN">
+  <data key="d0">Devon Energy</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="DWDP"/>
+<node id="DXC">
+  <data key="d0">DXC Technology</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="EA">
+  <data key="d0">Electronic Arts</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="EBAY">
+  <data key="d0">eBay</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="ECL">
+  <data key="d0">Ecolab</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="ED">
+  <data key="d0">Consolidated Edison</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="EFX">
+  <data key="d0">Equifax</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="EIX">
+  <data key="d0">Edison International</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="EL">
+  <data key="d0">Estée Lauder Companies</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="EMN">
+  <data key="d0">Eastman Chemical</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="EMR">
+  <data key="d0">Emerson Electric Company</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="EOG">
+  <data key="d0">EOG Resources</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="EQIX">
+  <data key="d0">Equinix</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="EQR">
+  <data key="d0">Equity Residential</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="EQT"/>
+<node id="ES">
+  <data key="d0">Eversource Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="ESRX"/>
+<node id="ESS">
+  <data key="d0">Essex Property Trust</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="ETFC"/>
+<node id="ETN">
+  <data key="d0">Eaton Corporation</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="ETR">
+  <data key="d0">Entergy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="EVHC"/>
+<node id="EW">
+  <data key="d0">Edwards Lifesciences</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="EXC">
+  <data key="d0">Exelon</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="EXPD">
+  <data key="d0">Expeditors</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="EXPE">
+  <data key="d0">Expedia Group</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="EXR">
+  <data key="d0">Extra Space Storage</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="F">
+  <data key="d0">Ford</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="FAST">
+  <data key="d0">Fastenal</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="FB">
+  <data key="d0">Facebook</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="FBHS">
+  <data key="d0">Fortune Brands Home &amp; Security</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="FCX">
+  <data key="d0">Freeport-McMoRan</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="FDX">
+  <data key="d0">FedEx</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="FE">
+  <data key="d0">FirstEnergy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="FFIV">
+  <data key="d0">F5 Networks</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="FIS">
+  <data key="d0">Fidelity National Information Services</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="FISV">
+  <data key="d0">Fiserv</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="FITB">
+  <data key="d0">Fifth Third Bancorp</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="FL"/>
+<node id="FLIR"/>
+<node id="FLR"/>
+<node id="FLS"/>
+<node id="FMC">
+  <data key="d0">FMC Corporation</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="FOX">
+  <data key="d0">Fox Corporation (Class B)</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="FOXA">
+  <data key="d0">Fox Corporation (Class A)</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="FRT">
+  <data key="d0">Federal Realty Investment Trust</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="FTI"/>
+<node id="FTV">
+  <data key="d0">Fortive</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="GD">
+  <data key="d0">General Dynamics</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="GE">
+  <data key="d0">General Electric</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="GGP"/>
+<node id="GILD">
+  <data key="d0">Gilead Sciences</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="GIS">
+  <data key="d0">General Mills</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="GLW">
+  <data key="d0">Corning</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="GM">
+  <data key="d0">General Motors</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="GOOG">
+  <data key="d0">Alphabet (Class C)</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="GOOGL">
+  <data key="d0">Alphabet (Class A)</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="GPC">
+  <data key="d0">Genuine Parts</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="GPN">
+  <data key="d0">Global Payments</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="GPS">
+  <data key="d0">Gap</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="GRMN">
+  <data key="d0">Garmin</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="GS">
+  <data key="d0">Goldman Sachs</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="GT"/>
+<node id="GWW">
+  <data key="d0">W. W. Grainger</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="HAL">
+  <data key="d0">Halliburton</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="HAS">
+  <data key="d0">Hasbro</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="HBAN">
+  <data key="d0">Huntington Bancshares</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="HBI">
+  <data key="d0">Hanesbrands</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="HCA">
+  <data key="d0">HCA Healthcare</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="HCN"/>
+<node id="HCP"/>
+<node id="HD">
+  <data key="d0">Home Depot</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="HES">
+  <data key="d0">Hess Corporation</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="HIG">
+  <data key="d0">The Hartford</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="HII">
+  <data key="d0">Huntington Ingalls Industries</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="HLT">
+  <data key="d0">Hilton Worldwide</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="HOG"/>
+<node id="HOLX">
+  <data key="d0">Hologic</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="HON">
+  <data key="d0">Honeywell</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="HP"/>
+<node id="HPE">
+  <data key="d0">Hewlett Packard Enterprise</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="HPQ">
+  <data key="d0">HP</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="HRB"/>
+<node id="HRL">
+  <data key="d0">Hormel</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="HRS"/>
+<node id="HSIC">
+  <data key="d0">Henry Schein</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="HST">
+  <data key="d0">Host Hotels &amp; Resorts</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="HSY">
+  <data key="d0">The Hershey Company</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="HUM">
+  <data key="d0">Humana</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="IBM">
+  <data key="d0">IBM</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="ICE">
+  <data key="d0">Intercontinental Exchange</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="IDXX">
+  <data key="d0">Idexx Laboratories</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="IFF">
+  <data key="d0">International Flavors &amp; Fragrances</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="ILMN">
+  <data key="d0">Illumina</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="INCY">
+  <data key="d0">Incyte</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="INFO">
+  <data key="d0">IHS Markit</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="INTC">
+  <data key="d0">Intel</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="INTU">
+  <data key="d0">Intuit</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="IP">
+  <data key="d0">International Paper</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="IPG">
+  <data key="d0">Interpublic Group</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="IQV">
+  <data key="d0">IQVIA</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="IR">
+  <data key="d0">Ingersoll Rand</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="IRM">
+  <data key="d0">Iron Mountain</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="ISRG">
+  <data key="d0">Intuitive Surgical</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="IT">
+  <data key="d0">Gartner</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="ITW">
+  <data key="d0">Illinois Tool Works</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="IVZ">
+  <data key="d0">Invesco</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="JBHT">
+  <data key="d0">J. B. Hunt</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="JCI">
+  <data key="d0">Johnson Controls</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="JEC"/>
+<node id="JNJ">
+  <data key="d0">Johnson &amp; Johnson</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="JNPR">
+  <data key="d0">Juniper Networks</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="JPM">
+  <data key="d0">JPMorgan Chase</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="JWN"/>
+<node id="K">
+  <data key="d0">Kellogg's</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="KEY">
+  <data key="d0">KeyCorp</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="KHC">
+  <data key="d0">Kraft Heinz</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="KIM">
+  <data key="d0">Kimco Realty</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="KLAC">
+  <data key="d0">KLA Corporation</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="KMB">
+  <data key="d0">Kimberly-Clark</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="KMI">
+  <data key="d0">Kinder Morgan</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="KMX">
+  <data key="d0">CarMax</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="KO">
+  <data key="d0">Coca-Cola Company</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="KORS"/>
+<node id="KR">
+  <data key="d0">Kroger</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="KSS"/>
+<node id="KSU">
+  <data key="d0">Kansas City Southern</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="L">
+  <data key="d0">Loews Corporation</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="LB"/>
+<node id="LEG">
+  <data key="d0">Leggett &amp; Platt</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="LEN">
+  <data key="d0">Lennar</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="LH">
+  <data key="d0">LabCorp</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="LKQ">
+  <data key="d0">LKQ Corporation</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="LLL"/>
+<node id="LLY">
+  <data key="d0">Eli Lilly &amp; Co</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="LMT">
+  <data key="d0">Lockheed Martin</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="LNC">
+  <data key="d0">Lincoln National</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="LNT">
+  <data key="d0">Alliant Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="LOW">
+  <data key="d0">Lowe's</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="LRCX">
+  <data key="d0">Lam Research</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="LUK"/>
+<node id="LUV">
+  <data key="d0">Southwest Airlines</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="LYB">
+  <data key="d0">LyondellBasell</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="M"/>
+<node id="MA">
+  <data key="d0">Mastercard</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="MAA">
+  <data key="d0">Mid-America Apartments</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="MAC"/>
+<node id="MAR">
+  <data key="d0">Marriott International</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="MAS">
+  <data key="d0">Masco</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="MAT"/>
+<node id="MCD">
+  <data key="d0">McDonald's</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="MCHP">
+  <data key="d0">Microchip Technology</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="MCK">
+  <data key="d0">McKesson Corporation</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="MCO">
+  <data key="d0">Moody's Corporation</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="MDLZ">
+  <data key="d0">Mondelez International</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="MDT">
+  <data key="d0">Medtronic</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="MET">
+  <data key="d0">MetLife</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="MGM">
+  <data key="d0">MGM Resorts International</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="MHK">
+  <data key="d0">Mohawk Industries</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="MKC">
+  <data key="d0">McCormick &amp; Company</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="MLM">
+  <data key="d0">Martin Marietta Materials</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="MMC">
+  <data key="d0">Marsh &amp; McLennan</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="MMM">
+  <data key="d0">3M</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="MNST">
+  <data key="d0">Monster Beverage</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="MO">
+  <data key="d0">Altria Group</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="MON"/>
+<node id="MOS">
+  <data key="d0">The Mosaic Company</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="MPC">
+  <data key="d0">Marathon Petroleum</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="MRK">
+  <data key="d0">Merck &amp; Co.</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="MRO">
+  <data key="d0">Marathon Oil</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="MS">
+  <data key="d0">Morgan Stanley</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="MSFT">
+  <data key="d0">Microsoft</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="MSI">
+  <data key="d0">Motorola Solutions</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="MTB">
+  <data key="d0">M&amp;T Bank</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="MTD">
+  <data key="d0">Mettler Toledo</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="MU">
+  <data key="d0">Micron Technology</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="MYL"/>
+<node id="NAVI"/>
+<node id="NBL"/>
+<node id="NCLH">
+  <data key="d0">Norwegian Cruise Line Holdings</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="NDAQ">
+  <data key="d0">Nasdaq</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="NEE">
+  <data key="d0">NextEra Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="NEM">
+  <data key="d0">Newmont</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="NFLX">
+  <data key="d0">Netflix</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="NFX"/>
+<node id="NI">
+  <data key="d0">NiSource</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="NKE">
+  <data key="d0">Nike</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="NLSN">
+  <data key="d0">Nielsen Holdings</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="NOC">
+  <data key="d0">Northrop Grumman</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="NOV"/>
+<node id="NRG">
+  <data key="d0">NRG Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="NSC">
+  <data key="d0">Norfolk Southern</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="NTAP">
+  <data key="d0">NetApp</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="NTRS">
+  <data key="d0">Northern Trust</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="NUE">
+  <data key="d0">Nucor</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="NVDA">
+  <data key="d0">Nvidia</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="NWL">
+  <data key="d0">Newell Brands</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="NWS">
+  <data key="d0">News Corp (Class B)</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="NWSA">
+  <data key="d0">News Corp (Class A)</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="O">
+  <data key="d0">Realty Income Corporation</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="OKE">
+  <data key="d0">Oneok</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="OMC">
+  <data key="d0">Omnicom Group</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="ORCL">
+  <data key="d0">Oracle</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="ORLY">
+  <data key="d0">O'Reilly Automotive</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="OXY">
+  <data key="d0">Occidental Petroleum</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="PAYX">
+  <data key="d0">Paychex</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="PBCT">
+  <data key="d0">People's United Financial</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="PCAR">
+  <data key="d0">Paccar</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="PCG"/>
+<node id="PCLN"/>
+<node id="PDCO"/>
+<node id="PEG">
+  <data key="d0">Public Service Enterprise Group</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="PEP">
+  <data key="d0">PepsiCo</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="PFE">
+  <data key="d0">Pfizer</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="PFG">
+  <data key="d0">Principal Financial Group</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="PG">
+  <data key="d0">Procter &amp; Gamble</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="PGR">
+  <data key="d0">Progressive Corporation</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="PH">
+  <data key="d0">Parker-Hannifin</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="PHM">
+  <data key="d0">PulteGroup</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="PKG">
+  <data key="d0">Packaging Corporation of America</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="PKI">
+  <data key="d0">PerkinElmer</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="PLD">
+  <data key="d0">Prologis</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="PM">
+  <data key="d0">Philip Morris International</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="PNC">
+  <data key="d0">PNC Financial Services</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="PNR">
+  <data key="d0">Pentair</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="PNW">
+  <data key="d0">Pinnacle West Capital</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="PPG">
+  <data key="d0">PPG Industries</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="PPL">
+  <data key="d0">PPL</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="PRGO"/>
+<node id="PRU">
+  <data key="d0">Prudential Financial</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="PSA">
+  <data key="d0">Public Storage</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="PSX">
+  <data key="d0">Phillips 66</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="PVH">
+  <data key="d0">PVH</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="PWR">
+  <data key="d0">Quanta Services</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="PX"/>
+<node id="PXD">
+  <data key="d0">Pioneer Natural Resources</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="PYPL">
+  <data key="d0">PayPal</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="QCOM">
+  <data key="d0">Qualcomm</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="QRVO">
+  <data key="d0">Qorvo</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="RCL">
+  <data key="d0">Royal Caribbean Group</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="RE">
+  <data key="d0">Everest Re</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="REG">
+  <data key="d0">Regency Centers</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="REGN">
+  <data key="d0">Regeneron Pharmaceuticals</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="RF">
+  <data key="d0">Regions Financial Corporation</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="RHI">
+  <data key="d0">Robert Half International</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="RHT"/>
+<node id="RJF">
+  <data key="d0">Raymond James Financial</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="RL">
+  <data key="d0">Ralph Lauren Corporation</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="RMD">
+  <data key="d0">ResMed</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="ROK">
+  <data key="d0">Rockwell Automation</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="ROP">
+  <data key="d0">Roper Technologies</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="ROST">
+  <data key="d0">Ross Stores</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="RRC"/>
+<node id="RSG">
+  <data key="d0">Republic Services</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="RTN"/>
+<node id="SBAC">
+  <data key="d0">SBA Communications</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="SBUX">
+  <data key="d0">Starbucks</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="SCG"/>
+<node id="SCHW">
+  <data key="d0">Charles Schwab Corporation</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="SEE">
+  <data key="d0">Sealed Air</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="SHW">
+  <data key="d0">Sherwin-Williams</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="SIG"/>
+<node id="SJM">
+  <data key="d0">JM Smucker</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="SLB">
+  <data key="d0">Schlumberger</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="SLG"/>
+<node id="SNA">
+  <data key="d0">Snap-on</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="SNI"/>
+<node id="SNPS">
+  <data key="d0">Synopsys</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="SO">
+  <data key="d0">Southern Company</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="SPG">
+  <data key="d0">Simon Property Group</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="SPGI">
+  <data key="d0">S&amp;P Global</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="SRCL"/>
+<node id="SRE">
+  <data key="d0">Sempra Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="STI"/>
+<node id="STT">
+  <data key="d0">State Street Corporation</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="STX">
+  <data key="d0">Seagate Technology</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="STZ">
+  <data key="d0">Constellation Brands</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="SWK">
+  <data key="d0">Stanley Black &amp; Decker</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="SWKS">
+  <data key="d0">Skyworks Solutions</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="SYF">
+  <data key="d0">Synchrony Financial</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="SYK">
+  <data key="d0">Stryker Corporation</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="SYMC"/>
+<node id="SYY">
+  <data key="d0">Sysco</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="T">
+  <data key="d0">AT&amp;T</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="TAP">
+  <data key="d0">Molson Coors Beverage Company</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="TDG">
+  <data key="d0">TransDigm Group</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="TEL">
+  <data key="d0">TE Connectivity</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="TGT">
+  <data key="d0">Target Corporation</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="TIF"/>
+<node id="TJX">
+  <data key="d0">TJX Companies</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="TMK"/>
+<node id="TMO">
+  <data key="d0">Thermo Fisher Scientific</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="TPR">
+  <data key="d0">Tapestry</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="TRIP"/>
+<node id="TROW">
+  <data key="d0">T. Rowe Price</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="TRV">
+  <data key="d0">The Travelers Companies</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="TSCO">
+  <data key="d0">Tractor Supply Company</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="TSN">
+  <data key="d0">Tyson Foods</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="TSS"/>
+<node id="TWX"/>
+<node id="TXN">
+  <data key="d0">Texas Instruments</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="TXT">
+  <data key="d0">Textron</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="UA">
+  <data key="d0">Under Armour (Class C)</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="UAA">
+  <data key="d0">Under Armour (Class A)</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="UAL">
+  <data key="d0">United Airlines</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="UDR">
+  <data key="d0">UDR</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="UHS">
+  <data key="d0">Universal Health Services</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="ULTA">
+  <data key="d0">Ulta Beauty</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="UNH">
+  <data key="d0">UnitedHealth Group</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="UNM"/>
+<node id="UNP">
+  <data key="d0">Union Pacific</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="UPS">
+  <data key="d0">United Parcel Service</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="URI">
+  <data key="d0">United Rentals</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="USB">
+  <data key="d0">U.S. Bancorp</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="UTX"/>
+<node id="V">
+  <data key="d0">Visa</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="VAR"/>
+<node id="VFC">
+  <data key="d0">VF Corporation</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="VIAB"/>
+<node id="VLO">
+  <data key="d0">Valero Energy</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="VMC">
+  <data key="d0">Vulcan Materials</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="VNO">
+  <data key="d0">Vornado Realty Trust</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="VRSK">
+  <data key="d0">Verisk Analytics</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="VRSN">
+  <data key="d0">Verisign</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="VRTX">
+  <data key="d0">Vertex Pharmaceuticals</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="VTR">
+  <data key="d0">Ventas</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="VZ">
+  <data key="d0">Verizon Communications</data>
+  <data key="d1">Communication Services</data>
+</node>
+<node id="WAT">
+  <data key="d0">Waters Corporation</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="WBA">
+  <data key="d0">Walgreens Boots Alliance</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="WDC">
+  <data key="d0">Western Digital</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="WEC">
+  <data key="d0">WEC Energy Group</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="WFC">
+  <data key="d0">Wells Fargo</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="WHR">
+  <data key="d0">Whirlpool Corporation</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="WLTW">
+  <data key="d0">Willis Towers Watson</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="WM">
+  <data key="d0">Waste Management</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="WMB">
+  <data key="d0">Williams Companies</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="WMT">
+  <data key="d0">Walmart</data>
+  <data key="d1">Consumer Staples</data>
+</node>
+<node id="WRK">
+  <data key="d0">WestRock</data>
+  <data key="d1">Materials</data>
+</node>
+<node id="WU">
+  <data key="d0">Western Union</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="WY">
+  <data key="d0">Weyerhaeuser</data>
+  <data key="d1">Real Estate</data>
+</node>
+<node id="WYN"/>
+<node id="WYNN">
+  <data key="d0">Wynn Resorts</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="XEC"/>
+<node id="XEL">
+  <data key="d0">Xcel Energy</data>
+  <data key="d1">Utilities</data>
+</node>
+<node id="XL"/>
+<node id="XLNX">
+  <data key="d0">Xilinx</data>
+  <data key="d1">Information Technology</data>
+</node>
+<node id="XOM">
+  <data key="d0">ExxonMobil</data>
+  <data key="d1">Energy</data>
+</node>
+<node id="XRAY">
+  <data key="d0">Dentsply Sirona</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="XRX"/>
+<node id="XYL">
+  <data key="d0">Xylem</data>
+  <data key="d1">Industrials</data>
+</node>
+<node id="YUM">
+  <data key="d0">Yum! Brands</data>
+  <data key="d1">Consumer Discretionary</data>
+</node>
+<node id="ZBH">
+  <data key="d0">Zimmer Biomet</data>
+  <data key="d1">Health Care</data>
+</node>
+<node id="ZION">
+  <data key="d0">Zions Bancorp</data>
+  <data key="d1">Financials</data>
+</node>
+<node id="ZTS">
+  <data key="d0">Zoetis</data>
+  <data key="d1">Health Care</data>
+</node>
+<edge source="A" target="NEM">
+  <data key="d2">0.04112336396882128</data>
+</edge>
+<edge source="AAL" target="NEM">
+  <data key="d2">0.01103833358028423</data>
+</edge>
+<edge source="AAP" target="DXC">
+  <data key="d2">-0.07996864050934128</data>
+</edge>
+<edge source="AAPL" target="EVHC">
+  <data key="d2">0.03557763088013879</data>
+</edge>
+<edge source="ABBV" target="NEM">
+  <data key="d2">0.023406649173279392</data>
+</edge>
+<edge source="ABC" target="FTV">
+  <data key="d2">-0.020139935792057497</data>
+</edge>
+<edge source="ABT" target="BHGE">
+  <data key="d2">-0.02444558549658917</data>
+</edge>
+<edge source="ACN" target="NEM">
+  <data key="d2">0.013733853104004759</data>
+</edge>
+<edge source="ADBE" target="BHGE">
+  <data key="d2">0.013361517339604135</data>
+</edge>
+<edge source="ADI" target="EVHC">
+  <data key="d2">0.03207055992102348</data>
+</edge>
+<edge source="ADM" target="EVHC">
+  <data key="d2">0.0469886688964826</data>
+</edge>
+<edge source="ADP" target="NEM">
+  <data key="d2">0.024233756659569335</data>
+</edge>
+<edge source="ADS" target="NI">
+  <data key="d2">0.04894986059539699</data>
+</edge>
+<edge source="ADSK" target="LNT">
+  <data key="d2">0.038129050632559204</data>
+</edge>
+<edge source="AEE" target="BHGE">
+  <data key="d2">-0.13126049232135692</data>
+</edge>
+<edge source="AEP" target="BHGE">
+  <data key="d2">-0.17804704253812279</data>
+</edge>
+<edge source="AES" target="BHGE">
+  <data key="d2">-0.05081127901997793</data>
+</edge>
+<edge source="AET" target="BHGE">
+  <data key="d2">-0.013611018502690727</data>
+</edge>
+<edge source="AFL" target="EVHC">
+  <data key="d2">0.044591834133886815</data>
+</edge>
+<edge source="AGN" target="EVHC">
+  <data key="d2">0.014844082159995699</data>
+</edge>
+<edge source="AIG" target="NEM">
+  <data key="d2">0.0371678675379449</data>
+</edge>
+<edge source="AIV" target="APTV">
+  <data key="d2">-0.08449053505496655</data>
+</edge>
+<edge source="AIZ" target="NEM">
+  <data key="d2">-0.004764658333300472</data>
+</edge>
+<edge source="AJG" target="DWDP">
+  <data key="d2">0.048960747403983415</data>
+</edge>
+<edge source="AKAM" target="EVHC">
+  <data key="d2">0.013841429204687707</data>
+</edge>
+<edge source="ALB" target="EVHC">
+  <data key="d2">-0.03702485163112359</data>
+</edge>
+<edge source="ALGN" target="BHF">
+  <data key="d2">0.03260379215870526</data>
+</edge>
+<edge source="ALK" target="NEM">
+  <data key="d2">-0.0014369734369756113</data>
+</edge>
+<edge source="ALL" target="EVHC">
+  <data key="d2">0.020498879120433192</data>
+</edge>
+<edge source="ALLE" target="LNT">
+  <data key="d2">0.06305199304180335</data>
+</edge>
+<edge source="ALXN" target="SO">
+  <data key="d2">0.03357858737114723</data>
+</edge>
+<edge source="AMAT" target="BHF">
+  <data key="d2">0.05221879088812795</data>
+</edge>
+<edge source="AMD" target="ED">
+  <data key="d2">0.004377025451070569</data>
+</edge>
+<edge source="AME" target="NEM">
+  <data key="d2">0.08421049147615034</data>
+</edge>
+<edge source="AMG" target="ED">
+  <data key="d2">0.034560992936077915</data>
+</edge>
+<edge source="AMGN" target="NEM">
+  <data key="d2">0.02520754032157108</data>
+</edge>
+<edge source="AMP" target="ED">
+  <data key="d2">-0.004154861721867183</data>
+</edge>
+<edge source="AMT" target="BHF">
+  <data key="d2">-0.10702748549361506</data>
+</edge>
+<edge source="AMZN" target="KSS">
+  <data key="d2">0.021841208889039194</data>
+</edge>
+<edge source="ANDV" target="EVHC">
+  <data key="d2">-0.051708845658077034</data>
+</edge>
+<edge source="ANSS" target="BHF">
+  <data key="d2">-0.06084819492027717</data>
+</edge>
+<edge source="ANTM" target="NEM">
+  <data key="d2">0.023865447119489003</data>
+</edge>
+<edge source="AON" target="BHGE">
+  <data key="d2">0.08465545195023219</data>
+</edge>
+<edge source="AOS" target="ED">
+  <data key="d2">0.07941751184171356</data>
+</edge>
+<edge source="APA" target="ED">
+  <data key="d2">-0.0020059882186339974</data>
+</edge>
+<edge source="APC" target="EVHC">
+  <data key="d2">-0.035771710199596844</data>
+</edge>
+<edge source="APD" target="EVHC">
+  <data key="d2">0.06700272372960124</data>
+</edge>
+<edge source="APH" target="EVHC">
+  <data key="d2">0.038305655877349895</data>
+</edge>
+<edge source="APTV" target="MAT">
+  <data key="d2">-0.1848709325065573</data>
+</edge>
+<edge source="APTV" target="DUK">
+  <data key="d2">-0.1720650786036023</data>
+</edge>
+<edge source="APTV" target="D">
+  <data key="d2">-0.15361691224446447</data>
+</edge>
+<edge source="APTV" target="HCP">
+  <data key="d2">-0.1496925516526405</data>
+</edge>
+<edge source="APTV" target="ES">
+  <data key="d2">-0.13532619272997876</data>
+</edge>
+<edge source="APTV" target="DTE">
+  <data key="d2">-0.12699369307557534</data>
+</edge>
+<edge source="APTV" target="LB">
+  <data key="d2">-0.023589965252040622</data>
+</edge>
+<edge source="APTV" target="SBUX">
+  <data key="d2">-0.022610421867369515</data>
+</edge>
+<edge source="ARE" target="BHF">
+  <data key="d2">0.025680342869921314</data>
+</edge>
+<edge source="ARNC" target="EVHC">
+  <data key="d2">0.028077330996041604</data>
+</edge>
+<edge source="ATVI" target="NEM">
+  <data key="d2">0.04486928839457451</data>
+</edge>
+<edge source="AVB" target="EVHC">
+  <data key="d2">-0.02554131353780164</data>
+</edge>
+<edge source="AVGO" target="BHF">
+  <data key="d2">-0.06607939437705984</data>
+</edge>
+<edge source="AVY" target="EVHC">
+  <data key="d2">0.05220212690163123</data>
+</edge>
+<edge source="AWK" target="BHGE">
+  <data key="d2">-0.12256439317639035</data>
+</edge>
+<edge source="AXP" target="EVHC">
+  <data key="d2">0.036703941829894</data>
+</edge>
+<edge source="AYI" target="BHF">
+  <data key="d2">0.035868577946050986</data>
+</edge>
+<edge source="AZO" target="DXC">
+  <data key="d2">-0.02176051560382261</data>
+</edge>
+<edge source="BA" target="EVHC">
+  <data key="d2">0.02269724120463807</data>
+</edge>
+<edge source="BAC" target="ED">
+  <data key="d2">-0.12290315652787485</data>
+</edge>
+<edge source="BAX" target="NEM">
+  <data key="d2">0.047308114746565995</data>
+</edge>
+<edge source="BBT" target="ED">
+  <data key="d2">-0.038715554535566986</data>
+</edge>
+<edge source="BBY" target="NEM">
+  <data key="d2">0.0015383650984128307</data>
+</edge>
+<edge source="BDX" target="BHGE">
+  <data key="d2">0.014127620052721421</data>
+</edge>
+<edge source="BEN" target="ED">
+  <data key="d2">0.08762654030913088</data>
+</edge>
+<edge source="BF.B" target="DXC">
+  <data key="d2">-0.0009497880070321455</data>
+</edge>
+<edge source="BHF" target="KORS">
+  <data key="d2">-0.21974683289202315</data>
+</edge>
+<edge source="BHF" target="EQIX">
+  <data key="d2">-0.18838468750915932</data>
+</edge>
+<edge source="BHF" target="DLR">
+  <data key="d2">-0.16635067864977152</data>
+</edge>
+<edge source="BHF" target="SO">
+  <data key="d2">-0.14410540983906028</data>
+</edge>
+<edge source="BHF" target="RL">
+  <data key="d2">-0.11724730851494147</data>
+</edge>
+<edge source="BHF" target="SRE">
+  <data key="d2">-0.11495179072446776</data>
+</edge>
+<edge source="BHF" target="EXR">
+  <data key="d2">-0.11141186468475793</data>
+</edge>
+<edge source="BHF" target="CHTR">
+  <data key="d2">-0.1056729696623834</data>
+</edge>
+<edge source="BHF" target="SIG">
+  <data key="d2">-0.09599807190382509</data>
+</edge>
+<edge source="BHF" target="IRM">
+  <data key="d2">-0.0889450115727953</data>
+</edge>
+<edge source="BHF" target="VTR">
+  <data key="d2">-0.08474000057693647</data>
+</edge>
+<edge source="BHF" target="FRT">
+  <data key="d2">-0.08402539218695228</data>
+</edge>
+<edge source="BHF" target="REG">
+  <data key="d2">-0.08279345733865816</data>
+</edge>
+<edge source="BHF" target="EIX">
+  <data key="d2">-0.08058204821117218</data>
+</edge>
+<edge source="BHF" target="ETR">
+  <data key="d2">-0.07995619256750186</data>
+</edge>
+<edge source="BHF" target="MAA">
+  <data key="d2">-0.06917401028274656</data>
+</edge>
+<edge source="BHF" target="TRIP">
+  <data key="d2">-0.06397734249910816</data>
+</edge>
+<edge source="BHF" target="EXC">
+  <data key="d2">-0.059025640198085615</data>
+</edge>
+<edge source="BHF" target="CNP">
+  <data key="d2">-0.05854445034104563</data>
+</edge>
+<edge source="BHF" target="INFO">
+  <data key="d2">-0.04778232667991896</data>
+</edge>
+<edge source="BHF" target="UDR">
+  <data key="d2">-0.044093373002209675</data>
+</edge>
+<edge source="BHF" target="HRB">
+  <data key="d2">-0.011656281418848011</data>
+</edge>
+<edge source="BHF" target="CELG">
+  <data key="d2">-0.008678618866750223</data>
+</edge>
+<edge source="BHF" target="SWKS">
+  <data key="d2">-0.001289584249432039</data>
+</edge>
+<edge source="BHF" target="DRE">
+  <data key="d2">0.010672694055694428</data>
+</edge>
+<edge source="BHF" target="LRCX">
+  <data key="d2">0.05633641152152271</data>
+</edge>
+<edge source="BHF" target="MCHP">
+  <data key="d2">0.07400094475376787</data>
+</edge>
+<edge source="BHF" target="WY">
+  <data key="d2">0.07846979846020334</data>
+</edge>
+<edge source="BHGE" target="SO">
+  <data key="d2">-0.2122124717286634</data>
+</edge>
+<edge source="BHGE" target="D">
+  <data key="d2">-0.2021624336740402</data>
+</edge>
+<edge source="BHGE" target="XEL">
+  <data key="d2">-0.20043821695654648</data>
+</edge>
+<edge source="BHGE" target="CMS">
+  <data key="d2">-0.16906753701563917</data>
+</edge>
+<edge source="BHGE" target="LNT">
+  <data key="d2">-0.1656520197940852</data>
+</edge>
+<edge source="BHGE" target="HSIC">
+  <data key="d2">-0.16269230885152078</data>
+</edge>
+<edge source="BHGE" target="ED">
+  <data key="d2">-0.16040616760969878</data>
+</edge>
+<edge source="BHGE" target="PNW">
+  <data key="d2">-0.15613482629491623</data>
+</edge>
+<edge source="BHGE" target="PPL">
+  <data key="d2">-0.15166893561257305</data>
+</edge>
+<edge source="BHGE" target="VAR">
+  <data key="d2">-0.1400660773805221</data>
+</edge>
+<edge source="BHGE" target="NI">
+  <data key="d2">-0.13875897412617566</data>
+</edge>
+<edge source="BHGE" target="WEC">
+  <data key="d2">-0.12897875420074184</data>
+</edge>
+<edge source="BHGE" target="DPS">
+  <data key="d2">-0.11581601071443805</data>
+</edge>
+<edge source="BHGE" target="PEG">
+  <data key="d2">-0.11132254368653623</data>
+</edge>
+<edge source="BHGE" target="GWW">
+  <data key="d2">-0.09001598319345702</data>
+</edge>
+<edge source="BHGE" target="EVHC">
+  <data key="d2">-0.08056391390041227</data>
+</edge>
+<edge source="BHGE" target="COL">
+  <data key="d2">-0.07848870562120011</data>
+</edge>
+<edge source="BHGE" target="NFLX">
+  <data key="d2">-0.06402333620439606</data>
+</edge>
+<edge source="BHGE" target="MMM">
+  <data key="d2">-0.06261108330188528</data>
+</edge>
+<edge source="BHGE" target="HUM">
+  <data key="d2">-0.06033565073325963</data>
+</edge>
+<edge source="BHGE" target="WMT">
+  <data key="d2">-0.05269069885001935</data>
+</edge>
+<edge source="BHGE" target="MKC">
+  <data key="d2">-0.050513042021002784</data>
+</edge>
+<edge source="BHGE" target="VFC">
+  <data key="d2">-0.04612134469754528</data>
+</edge>
+<edge source="BHGE" target="RHT">
+  <data key="d2">-0.04552706597190221</data>
+</edge>
+<edge source="BHGE" target="GGP">
+  <data key="d2">-0.04536205317795352</data>
+</edge>
+<edge source="BHGE" target="GD">
+  <data key="d2">-0.041623882604676914</data>
+</edge>
+<edge source="BHGE" target="TMO">
+  <data key="d2">-0.03291578508107538</data>
+</edge>
+<edge source="BHGE" target="K">
+  <data key="d2">-0.02976320501628562</data>
+</edge>
+<edge source="BHGE" target="VMC">
+  <data key="d2">-0.02621048589312589</data>
+</edge>
+<edge source="BHGE" target="CVS">
+  <data key="d2">-0.025672803746045962</data>
+</edge>
+<edge source="BHGE" target="INCY">
+  <data key="d2">-0.024679170518388503</data>
+</edge>
+<edge source="BHGE" target="PDCO">
+  <data key="d2">-0.01780148314731116</data>
+</edge>
+<edge source="BHGE" target="BLL">
+  <data key="d2">-0.005202698352137435</data>
+</edge>
+<edge source="BHGE" target="MSI">
+  <data key="d2">-0.0050089182406256325</data>
+</edge>
+<edge source="BHGE" target="WAT">
+  <data key="d2">-0.0035712395981775604</data>
+</edge>
+<edge source="BHGE" target="DGX">
+  <data key="d2">-0.0031300944840646277</data>
+</edge>
+<edge source="BHGE" target="PYPL">
+  <data key="d2">0.002021991179286923</data>
+</edge>
+<edge source="BHGE" target="MDT">
+  <data key="d2">0.002720485647761406</data>
+</edge>
+<edge source="BHGE" target="HOG">
+  <data key="d2">0.003998884635671276</data>
+</edge>
+<edge source="BHGE" target="COO">
+  <data key="d2">0.004134169739871304</data>
+</edge>
+<edge source="BHGE" target="WBA">
+  <data key="d2">0.006930513552851807</data>
+</edge>
+<edge source="BHGE" target="TSS">
+  <data key="d2">0.007452904842000806</data>
+</edge>
+<edge source="BHGE" target="MTD">
+  <data key="d2">0.009666975552498722</data>
+</edge>
+<edge source="BHGE" target="REGN">
+  <data key="d2">0.013972280566686536</data>
+</edge>
+<edge source="BHGE" target="RTN">
+  <data key="d2">0.01492475491435082</data>
+</edge>
+<edge source="BHGE" target="SEE">
+  <data key="d2">0.015621598810809064</data>
+</edge>
+<edge source="BHGE" target="CTAS">
+  <data key="d2">0.01708006405615645</data>
+</edge>
+<edge source="BHGE" target="EW">
+  <data key="d2">0.01804574159737835</data>
+</edge>
+<edge source="BHGE" target="GPN">
+  <data key="d2">0.018368821478236885</data>
+</edge>
+<edge source="BHGE" target="BSX">
+  <data key="d2">0.018983151063416845</data>
+</edge>
+<edge source="BHGE" target="HBI">
+  <data key="d2">0.019570308888394946</data>
+</edge>
+<edge source="BHGE" target="STX">
+  <data key="d2">0.020211717045169976</data>
+</edge>
+<edge source="BHGE" target="FLIR">
+  <data key="d2">0.020256760904751783</data>
+</edge>
+<edge source="BHGE" target="RE">
+  <data key="d2">0.02763968147568842</data>
+</edge>
+<edge source="BHGE" target="GILD">
+  <data key="d2">0.02996469817948023</data>
+</edge>
+<edge source="BHGE" target="GT">
+  <data key="d2">0.03698481532934511</data>
+</edge>
+<edge source="BHGE" target="XYL">
+  <data key="d2">0.03883739139770031</data>
+</edge>
+<edge source="BHGE" target="SYY">
+  <data key="d2">0.04542445664696199</data>
+</edge>
+<edge source="BHGE" target="SYMC">
+  <data key="d2">0.05518708901253741</data>
+</edge>
+<edge source="BHGE" target="PKI">
+  <data key="d2">0.05848082682588558</data>
+</edge>
+<edge source="BHGE" target="FAST">
+  <data key="d2">0.060410416687877964</data>
+</edge>
+<edge source="BHGE" target="DHR">
+  <data key="d2">0.06638012687069961</data>
+</edge>
+<edge source="BHGE" target="PKG">
+  <data key="d2">0.08082363302057624</data>
+</edge>
+<edge source="BHGE" target="UTX">
+  <data key="d2">0.08278520171295113</data>
+</edge>
+<edge source="BHGE" target="IR">
+  <data key="d2">0.10024106926121991</data>
+</edge>
+<edge source="BIIB" target="EVHC">
+  <data key="d2">0.03142124132791905</data>
+</edge>
+<edge source="BK" target="ED">
+  <data key="d2">-0.005908118281224459</data>
+</edge>
+<edge source="BLK" target="NEM">
+  <data key="d2">0.09018025091989679</data>
+</edge>
+<edge source="BMY" target="CSRA">
+  <data key="d2">0.06175030905351985</data>
+</edge>
+<edge source="BRK.B" target="EVHC">
+  <data key="d2">0.05524468075268397</data>
+</edge>
+<edge source="BWA" target="ED">
+  <data key="d2">0.04325502981756504</data>
+</edge>
+<edge source="BXP" target="EVHC">
+  <data key="d2">-0.0019347694498586645</data>
+</edge>
+<edge source="C" target="ED">
+  <data key="d2">-0.031132498587142753</data>
+</edge>
+<edge source="CA" target="EVHC">
+  <data key="d2">0.0020616436486595273</data>
+</edge>
+<edge source="CAG" target="CSRA">
+  <data key="d2">-0.06607832469911812</data>
+</edge>
+<edge source="CAH" target="NEM">
+  <data key="d2">0.028357039898278806</data>
+</edge>
+<edge source="CAT" target="EVHC">
+  <data key="d2">0.030579210458688152</data>
+</edge>
+<edge source="CB" target="NEM">
+  <data key="d2">0.057702160782593596</data>
+</edge>
+<edge source="CBG" target="NEM">
+  <data key="d2">0.06903309427230667</data>
+</edge>
+<edge source="CBOE" target="DWDP">
+  <data key="d2">-0.18519885573669986</data>
+</edge>
+<edge source="CBOE" target="RRC">
+  <data key="d2">-0.03592840114825619</data>
+</edge>
+<edge source="CBOE" target="COTY">
+  <data key="d2">0.01250901153204362</data>
+</edge>
+<edge source="CBOE" target="OKE">
+  <data key="d2">0.04694175577579851</data>
+</edge>
+<edge source="CBS" target="DXC">
+  <data key="d2">-0.05528449540804506</data>
+</edge>
+<edge source="CCI" target="DWDP">
+  <data key="d2">-0.1840484187470267</data>
+</edge>
+<edge source="CCL" target="NEM">
+  <data key="d2">0.006380787455889704</data>
+</edge>
+<edge source="CDNS" target="EVHC">
+  <data key="d2">0.046125299844038396</data>
+</edge>
+<edge source="CERN" target="NEM">
+  <data key="d2">0.04159985113464484</data>
+</edge>
+<edge source="CF" target="ED">
+  <data key="d2">-0.052719736108018514</data>
+</edge>
+<edge source="CFG" target="ED">
+  <data key="d2">-0.15954056558604146</data>
+</edge>
+<edge source="CFG" target="O">
+  <data key="d2">-0.12454879194810185</data>
+</edge>
+<edge source="CFG" target="NEM">
+  <data key="d2">-0.09681670896005516</data>
+</edge>
+<edge source="CFG" target="HCN">
+  <data key="d2">-0.08094942128537758</data>
+</edge>
+<edge source="CFG" target="NEE">
+  <data key="d2">-0.0699578536212983</data>
+</edge>
+<edge source="CHD" target="EVHC">
+  <data key="d2">-0.04794294020270794</data>
+</edge>
+<edge source="CHK" target="CLX">
+  <data key="d2">-0.015406040232586134</data>
+</edge>
+<edge source="CHRW" target="DXC">
+  <data key="d2">-0.008469304705926694</data>
+</edge>
+<edge source="CI" target="NEM">
+  <data key="d2">0.0067344012602670485</data>
+</edge>
+<edge source="CINF" target="EVHC">
+  <data key="d2">0.020026339778233693</data>
+</edge>
+<edge source="CL" target="EVHC">
+  <data key="d2">-0.01965239186237153</data>
+</edge>
+<edge source="CLX" target="UA">
+  <data key="d2">-0.04237584440582993</data>
+</edge>
+<edge source="CMA" target="ED">
+  <data key="d2">-0.08836155052953716</data>
+</edge>
+<edge source="CMCSA" target="NEM">
+  <data key="d2">0.08583616467119737</data>
+</edge>
+<edge source="CME" target="NEM">
+  <data key="d2">-0.029996753023718008</data>
+</edge>
+<edge source="CMG" target="NEM">
+  <data key="d2">-0.034334968347507655</data>
+</edge>
+<edge source="CMI" target="O">
+  <data key="d2">0.08059230126128535</data>
+</edge>
+<edge source="CNC" target="NEM">
+  <data key="d2">-0.003767075292613523</data>
+</edge>
+<edge source="COF" target="ED">
+  <data key="d2">-0.00214524181151205</data>
+</edge>
+<edge source="COG" target="DPS">
+  <data key="d2">0.021363807516083678</data>
+</edge>
+<edge source="COP" target="EVHC">
+  <data key="d2">-0.04159428638449727</data>
+</edge>
+<edge source="COST" target="DXC">
+  <data key="d2">-0.017327665221309487</data>
+</edge>
+<edge source="COTY" target="LLL">
+  <data key="d2">0.06058881260119438</data>
+</edge>
+<edge source="CPB" target="EVHC">
+  <data key="d2">-0.0168427859928778</data>
+</edge>
+<edge source="CRM" target="LNT">
+  <data key="d2">0.017368628357348537</data>
+</edge>
+<edge source="CSCO" target="LNT">
+  <data key="d2">0.039381466310386616</data>
+</edge>
+<edge source="CSRA" target="ED">
+  <data key="d2">-0.10924955575524795</data>
+</edge>
+<edge source="CSRA" target="HRL">
+  <data key="d2">-0.012883551397805358</data>
+</edge>
+<edge source="CSRA" target="TSN">
+  <data key="d2">-0.007605095096997415</data>
+</edge>
+<edge source="CSRA" target="PM">
+  <data key="d2">0.05562427972670844</data>
+</edge>
+<edge source="CSX" target="EVHC">
+  <data key="d2">0.021992947567979353</data>
+</edge>
+<edge source="CTL" target="STZ">
+  <data key="d2">-0.11993903415734247</data>
+</edge>
+<edge source="CTL" target="FTV">
+  <data key="d2">0.018061228270341966</data>
+</edge>
+<edge source="CTSH" target="NEM">
+  <data key="d2">0.011680721992580821</data>
+</edge>
+<edge source="CTXS" target="EVHC">
+  <data key="d2">0.04030080601238222</data>
+</edge>
+<edge source="CVX" target="DXC">
+  <data key="d2">0.06358189310359998</data>
+</edge>
+<edge source="CXO" target="EVHC">
+  <data key="d2">-0.10118101759488508</data>
+</edge>
+<edge source="DAL" target="NEM">
+  <data key="d2">-0.016720022779308896</data>
+</edge>
+<edge source="DE" target="LNT">
+  <data key="d2">-0.02796764368388042</data>
+</edge>
+<edge source="DFS" target="EVHC">
+  <data key="d2">0.05075840790031721</data>
+</edge>
+<edge source="DG" target="NEM">
+  <data key="d2">-0.005834754632818963</data>
+</edge>
+<edge source="DHI" target="NI">
+  <data key="d2">0.09513659246833159</data>
+</edge>
+<edge source="DIS" target="DXC">
+  <data key="d2">-0.11309059212198039</data>
+</edge>
+<edge source="DISCA" target="DXC">
+  <data key="d2">-0.06125520617532753</data>
+</edge>
+<edge source="DISCK" target="DXC">
+  <data key="d2">-0.0543068133478651</data>
+</edge>
+<edge source="DISH" target="DWDP">
+  <data key="d2">-0.017873868296594823</data>
+</edge>
+<edge source="DLTR" target="NEM">
+  <data key="d2">-0.004560173697346648</data>
+</edge>
+<edge source="DOV" target="EVHC">
+  <data key="d2">0.034432164210749225</data>
+</edge>
+<edge source="DPS" target="DXC">
+  <data key="d2">-0.08321350040674587</data>
+</edge>
+<edge source="DPS" target="KMI">
+  <data key="d2">0.06210700591503146</data>
+</edge>
+<edge source="DRI" target="NEM">
+  <data key="d2">0.007146947545604369</data>
+</edge>
+<edge source="DVA" target="DXC">
+  <data key="d2">-0.09830308201787309</data>
+</edge>
+<edge source="DVN" target="EVHC">
+  <data key="d2">-0.1332872849510751</data>
+</edge>
+<edge source="DWDP" target="EXR">
+  <data key="d2">-0.11880115761657048</data>
+</edge>
+<edge source="DWDP" target="SBAC">
+  <data key="d2">-0.07316905748360387</data>
+</edge>
+<edge source="DWDP" target="XL">
+  <data key="d2">-0.05927601324829316</data>
+</edge>
+<edge source="DWDP" target="FE">
+  <data key="d2">-0.03445903790409866</data>
+</edge>
+<edge source="DWDP" target="PSA">
+  <data key="d2">-0.02984976149308531</data>
+</edge>
+<edge source="DWDP" target="NRG">
+  <data key="d2">0.0007416141871581937</data>
+</edge>
+<edge source="DXC" target="SPG">
+  <data key="d2">-0.14446349154783278</data>
+</edge>
+<edge source="DXC" target="KIM">
+  <data key="d2">-0.10619716907098176</data>
+</edge>
+<edge source="DXC" target="TGT">
+  <data key="d2">-0.10258920627475457</data>
+</edge>
+<edge source="DXC" target="GPS">
+  <data key="d2">-0.07853669112042348</data>
+</edge>
+<edge source="DXC" target="TWX">
+  <data key="d2">-0.054968418844345286</data>
+</edge>
+<edge source="DXC" target="MAC">
+  <data key="d2">-0.053744917386628996</data>
+</edge>
+<edge source="DXC" target="VIAB">
+  <data key="d2">-0.052171640914941184</data>
+</edge>
+<edge source="DXC" target="JWN">
+  <data key="d2">-0.04728574277657479</data>
+</edge>
+<edge source="DXC" target="M">
+  <data key="d2">-0.044650427972436485</data>
+</edge>
+<edge source="DXC" target="T">
+  <data key="d2">-0.042565168576618226</data>
+</edge>
+<edge source="DXC" target="XRAY">
+  <data key="d2">-0.03981467582784067</data>
+</edge>
+<edge source="DXC" target="VZ">
+  <data key="d2">-0.038616828322927815</data>
+</edge>
+<edge source="DXC" target="ORLY">
+  <data key="d2">-0.03441958567467046</data>
+</edge>
+<edge source="DXC" target="ROST">
+  <data key="d2">-0.026493961422336728</data>
+</edge>
+<edge source="DXC" target="ULTA">
+  <data key="d2">-0.02626114978018906</data>
+</edge>
+<edge source="DXC" target="TSCO">
+  <data key="d2">-0.025738402026741034</data>
+</edge>
+<edge source="DXC" target="TJX">
+  <data key="d2">-0.015480720335899499</data>
+</edge>
+<edge source="DXC" target="SNI">
+  <data key="d2">-0.015100291122360223</data>
+</edge>
+<edge source="DXC" target="GPC">
+  <data key="d2">0.0038120959513077285</data>
+</edge>
+<edge source="DXC" target="TPR">
+  <data key="d2">0.004586022157810287</data>
+</edge>
+<edge source="DXC" target="FOXA">
+  <data key="d2">0.018014677016154074</data>
+</edge>
+<edge source="DXC" target="FOX">
+  <data key="d2">0.02417136544787866</data>
+</edge>
+<edge source="EA" target="NEM">
+  <data key="d2">0.01706005381273871</data>
+</edge>
+<edge source="EBAY" target="NI">
+  <data key="d2">0.004303924797887595</data>
+</edge>
+<edge source="EBAY" target="HAS">
+  <data key="d2">0.021422752637874815</data>
+</edge>
+<edge source="ECL" target="EVHC">
+  <data key="d2">0.07812360464003558</data>
+</edge>
+<edge source="ED" target="ZION">
+  <data key="d2">-0.1196288394990408</data>
+</edge>
+<edge source="ED" target="SCHW">
+  <data key="d2">-0.10841453870311774</data>
+</edge>
+<edge source="ED" target="RF">
+  <data key="d2">-0.0936449305165059</data>
+</edge>
+<edge source="ED" target="LNC">
+  <data key="d2">-0.09288541391992995</data>
+</edge>
+<edge source="ED" target="ETFC">
+  <data key="d2">-0.09146580345382363</data>
+</edge>
+<edge source="ED" target="MET">
+  <data key="d2">-0.08180277774318513</data>
+</edge>
+<edge source="ED" target="FITB">
+  <data key="d2">-0.07627142393598657</data>
+</edge>
+<edge source="ED" target="QRVO">
+  <data key="d2">-0.0737040941495674</data>
+</edge>
+<edge source="ED" target="NAVI">
+  <data key="d2">-0.07091074519437164</data>
+</edge>
+<edge source="ED" target="KEY">
+  <data key="d2">-0.0675922460419541</data>
+</edge>
+<edge source="ED" target="HBAN">
+  <data key="d2">-0.05926482699412194</data>
+</edge>
+<edge source="ED" target="UNM">
+  <data key="d2">-0.05271525477331745</data>
+</edge>
+<edge source="ED" target="STI">
+  <data key="d2">-0.0473083214039017</data>
+</edge>
+<edge source="ED" target="RJF">
+  <data key="d2">-0.04390545452251546</data>
+</edge>
+<edge source="ED" target="PRU">
+  <data key="d2">-0.02828574098178015</data>
+</edge>
+<edge source="ED" target="PNC">
+  <data key="d2">-0.027245854529223564</data>
+</edge>
+<edge source="ED" target="MS">
+  <data key="d2">-0.026533782505657296</data>
+</edge>
+<edge source="ED" target="HPE">
+  <data key="d2">-0.02264507646130911</data>
+</edge>
+<edge source="ED" target="STT">
+  <data key="d2">-0.021619302145520648</data>
+</edge>
+<edge source="ED" target="NFX">
+  <data key="d2">-0.015109011933552118</data>
+</edge>
+<edge source="ED" target="URI">
+  <data key="d2">-0.01216555186118434</data>
+</edge>
+<edge source="ED" target="HPQ">
+  <data key="d2">-0.011418365447558617</data>
+</edge>
+<edge source="ED" target="JPM">
+  <data key="d2">-0.010146509339975752</data>
+</edge>
+<edge source="ED" target="HP">
+  <data key="d2">-0.00918484956572849</data>
+</edge>
+<edge source="ED" target="GS">
+  <data key="d2">-0.008999947798567111</data>
+</edge>
+<edge source="ED" target="MU">
+  <data key="d2">-0.007681955641834419</data>
+</edge>
+<edge source="ED" target="JNPR">
+  <data key="d2">-0.0015570230383292595</data>
+</edge>
+<edge source="ED" target="NOV">
+  <data key="d2">-2.0728778915622887e-05</data>
+</edge>
+<edge source="ED" target="HES">
+  <data key="d2">0.0035444052633477737</data>
+</edge>
+<edge source="ED" target="MOS">
+  <data key="d2">0.014212390074235193</data>
+</edge>
+<edge source="ED" target="PCLN">
+  <data key="d2">0.017289705592643652</data>
+</edge>
+<edge source="ED" target="NTAP">
+  <data key="d2">0.021783419546390785</data>
+</edge>
+<edge source="ED" target="FLS">
+  <data key="d2">0.023300741071272984</data>
+</edge>
+<edge source="ED" target="WDC">
+  <data key="d2">0.024747764449314733</data>
+</edge>
+<edge source="ED" target="LYB">
+  <data key="d2">0.030236457036295458</data>
+</edge>
+<edge source="ED" target="WMB">
+  <data key="d2">0.036484570598933515</data>
+</edge>
+<edge source="ED" target="PWR">
+  <data key="d2">0.041445567574915146</data>
+</edge>
+<edge source="ED" target="FFIV">
+  <data key="d2">0.043225768422347856</data>
+</edge>
+<edge source="ED" target="F">
+  <data key="d2">0.04708698040241943</data>
+</edge>
+<edge source="ED" target="MGM">
+  <data key="d2">0.04811099576984388</data>
+</edge>
+<edge source="ED" target="KMX">
+  <data key="d2">0.053204711451710254</data>
+</edge>
+<edge source="ED" target="FMC">
+  <data key="d2">0.05683361385996885</data>
+</edge>
+<edge source="ED" target="JEC">
+  <data key="d2">0.0585903682201653</data>
+</edge>
+<edge source="ED" target="PNR">
+  <data key="d2">0.09171278719679385</data>
+</edge>
+<edge source="EFX" target="NWL">
+  <data key="d2">-0.10183286154964599</data>
+</edge>
+<edge source="EL" target="EVHC">
+  <data key="d2">-0.2894071717289219</data>
+</edge>
+<edge source="EMN" target="EVHC">
+  <data key="d2">0.054885108849937414</data>
+</edge>
+<edge source="EMR" target="EVHC">
+  <data key="d2">0.043171536839430494</data>
+</edge>
+<edge source="EOG" target="EVHC">
+  <data key="d2">-0.0620325381170131</data>
+</edge>
+<edge source="EQR" target="EVHC">
+  <data key="d2">-0.039051445428519585</data>
+</edge>
+<edge source="EQT" target="FTV">
+  <data key="d2">-0.058919039465977666</data>
+</edge>
+<edge source="ESRX" target="NEM">
+  <data key="d2">0.027277340510686886</data>
+</edge>
+<edge source="ESS" target="EVHC">
+  <data key="d2">0.0372093520852636</data>
+</edge>
+<edge source="ETN" target="EVHC">
+  <data key="d2">0.03602070859273898</data>
+</edge>
+<edge source="EVHC" target="VRSK">
+  <data key="d2">-0.21058841651421056</data>
+</edge>
+<edge source="EVHC" target="GRMN">
+  <data key="d2">-0.1409021007096469</data>
+</edge>
+<edge source="EVHC" target="XEC">
+  <data key="d2">-0.13008538782372997</data>
+</edge>
+<edge source="EVHC" target="QCOM">
+  <data key="d2">-0.11509194277668444</data>
+</edge>
+<edge source="EVHC" target="PXD">
+  <data key="d2">-0.07381062114167909</data>
+</edge>
+<edge source="EVHC" target="WYNN">
+  <data key="d2">-0.07012344332074229</data>
+</edge>
+<edge source="EVHC" target="INTC">
+  <data key="d2">-0.058066440093420435</data>
+</edge>
+<edge source="EVHC" target="NBL">
+  <data key="d2">-0.0556618246727604</data>
+</edge>
+<edge source="EVHC" target="MMC">
+  <data key="d2">-0.05492241192915455</data>
+</edge>
+<edge source="EVHC" target="MRO">
+  <data key="d2">-0.04797014337991769</data>
+</edge>
+<edge source="EVHC" target="FCX">
+  <data key="d2">-0.02993264610414984</data>
+</edge>
+<edge source="EVHC" target="VLO">
+  <data key="d2">-0.029262253912344473</data>
+</edge>
+<edge source="EVHC" target="SLB">
+  <data key="d2">-0.027828123904296415</data>
+</edge>
+<edge source="EVHC" target="TXT">
+  <data key="d2">-0.025091313286830747</data>
+</edge>
+<edge source="EVHC" target="HSY">
+  <data key="d2">-0.017778734068233618</data>
+</edge>
+<edge source="EVHC" target="TDG">
+  <data key="d2">-0.009583481150141319</data>
+</edge>
+<edge source="EVHC" target="PSX">
+  <data key="d2">-0.009103364221291719</data>
+</edge>
+<edge source="EVHC" target="FTI">
+  <data key="d2">-0.008169576591216194</data>
+</edge>
+<edge source="EVHC" target="XOM">
+  <data key="d2">-0.006582989438035023</data>
+</edge>
+<edge source="EVHC" target="MO">
+  <data key="d2">-0.002628925960807433</data>
+</edge>
+<edge source="EVHC" target="FB">
+  <data key="d2">-0.0019077575464667693</data>
+</edge>
+<edge source="EVHC" target="OXY">
+  <data key="d2">-0.0017170978769747336</data>
+</edge>
+<edge source="EVHC" target="NWS">
+  <data key="d2">-0.0002544723385986342</data>
+</edge>
+<edge source="EVHC" target="PGR">
+  <data key="d2">0.0011363083281901315</data>
+</edge>
+<edge source="EVHC" target="HAL">
+  <data key="d2">0.004455545805844856</data>
+</edge>
+<edge source="EVHC" target="HII">
+  <data key="d2">0.009168491528543548</data>
+</edge>
+<edge source="EVHC" target="GIS">
+  <data key="d2">0.011184571984651235</data>
+</edge>
+<edge source="EVHC" target="GOOGL">
+  <data key="d2">0.01119607937145528</data>
+</edge>
+<edge source="EVHC" target="NUE">
+  <data key="d2">0.01245398146383795</data>
+</edge>
+<edge source="EVHC" target="TRV">
+  <data key="d2">0.013130527348166441</data>
+</edge>
+<edge source="EVHC" target="PX">
+  <data key="d2">0.015962634975641658</data>
+</edge>
+<edge source="EVHC" target="TXN">
+  <data key="d2">0.01805249461372211</data>
+</edge>
+<edge source="EVHC" target="ISRG">
+  <data key="d2">0.0207785953857742</data>
+</edge>
+<edge source="EVHC" target="KHC">
+  <data key="d2">0.02383313657305444</data>
+</edge>
+<edge source="EVHC" target="GOOG">
+  <data key="d2">0.024321344364787285</data>
+</edge>
+<edge source="EVHC" target="PLD">
+  <data key="d2">0.025865172658318798</data>
+</edge>
+<edge source="EVHC" target="HST">
+  <data key="d2">0.026257778665026283</data>
+</edge>
+<edge source="EVHC" target="IFF">
+  <data key="d2">0.026404473246079686</data>
+</edge>
+<edge source="EVHC" target="XLNX">
+  <data key="d2">0.02727733250854136</data>
+</edge>
+<edge source="EVHC" target="SNPS">
+  <data key="d2">0.029171297605843954</data>
+</edge>
+<edge source="EVHC" target="VRSN">
+  <data key="d2">0.02935738844447775</data>
+</edge>
+<edge source="EVHC" target="PFG">
+  <data key="d2">0.02956840299159858</data>
+</edge>
+<edge source="EVHC" target="LUK">
+  <data key="d2">0.031103115465602155</data>
+</edge>
+<edge source="EVHC" target="RMD">
+  <data key="d2">0.03214361937425288</data>
+</edge>
+<edge source="EVHC" target="ZTS">
+  <data key="d2">0.035538531301072596</data>
+</edge>
+<edge source="EVHC" target="HON">
+  <data key="d2">0.035898976799518416</data>
+</edge>
+<edge source="EVHC" target="NWSA">
+  <data key="d2">0.03678944700676291</data>
+</edge>
+<edge source="EVHC" target="KSU">
+  <data key="d2">0.03769444680719414</data>
+</edge>
+<edge source="EVHC" target="IBM">
+  <data key="d2">0.03889969523498839</data>
+</edge>
+<edge source="EVHC" target="TEL">
+  <data key="d2">0.041520360296387844</data>
+</edge>
+<edge source="EVHC" target="EXPD">
+  <data key="d2">0.043149029575523856</data>
+</edge>
+<edge source="EVHC" target="MHK">
+  <data key="d2">0.04336980277542696</data>
+</edge>
+<edge source="EVHC" target="XRX">
+  <data key="d2">0.0471604476744627</data>
+</edge>
+<edge source="EVHC" target="IP">
+  <data key="d2">0.04807452214921022</data>
+</edge>
+<edge source="EVHC" target="GLW">
+  <data key="d2">0.04980397254877052</data>
+</edge>
+<edge source="EVHC" target="UNP">
+  <data key="d2">0.050077187380942995</data>
+</edge>
+<edge source="EVHC" target="INTU">
+  <data key="d2">0.05524708991671221</data>
+</edge>
+<edge source="EVHC" target="LEN">
+  <data key="d2">0.05557699387951082</data>
+</edge>
+<edge source="EVHC" target="SHW">
+  <data key="d2">0.06100894412205412</data>
+</edge>
+<edge source="EVHC" target="L">
+  <data key="d2">0.06173375737922053</data>
+</edge>
+<edge source="EVHC" target="GE">
+  <data key="d2">0.07190569730102155</data>
+</edge>
+<edge source="EVHC" target="PH">
+  <data key="d2">0.07321471665676915</data>
+</edge>
+<edge source="EVHC" target="MSFT">
+  <data key="d2">0.07509028380974889</data>
+</edge>
+<edge source="EVHC" target="MAR">
+  <data key="d2">0.07691236682815075</data>
+</edge>
+<edge source="EVHC" target="SWK">
+  <data key="d2">0.07884185160184357</data>
+</edge>
+<edge source="EVHC" target="SLG">
+  <data key="d2">0.08150641112868875</data>
+</edge>
+<edge source="EVHC" target="TAP">
+  <data key="d2">0.08158328649083203</data>
+</edge>
+<edge source="EVHC" target="ORCL">
+  <data key="d2">0.08205001173820149</data>
+</edge>
+<edge source="EVHC" target="PPG">
+  <data key="d2">0.10992038730089602</data>
+</edge>
+<edge source="EXPE" target="NEM">
+  <data key="d2">0.009648852479107196</data>
+</edge>
+<edge source="FBHS" target="NEM">
+  <data key="d2">0.06503698170257279</data>
+</edge>
+<edge source="FDX" target="NEM">
+  <data key="d2">0.045602826558024195</data>
+</edge>
+<edge source="FIS" target="NEM">
+  <data key="d2">0.07805709783345312</data>
+</edge>
+<edge source="FISV" target="NEM">
+  <data key="d2">0.060350777966193876</data>
+</edge>
+<edge source="FL" target="LNT">
+  <data key="d2">-0.043341073942927216</data>
+</edge>
+<edge source="FLR" target="NWL">
+  <data key="d2">-0.08891666383718741</data>
+</edge>
+<edge source="FTV" target="NWL">
+  <data key="d2">-0.16849822667167566</data>
+</edge>
+<edge source="FTV" target="MRK">
+  <data key="d2">-0.1048498370741554</data>
+</edge>
+<edge source="FTV" target="MCK">
+  <data key="d2">-0.023980693921315896</data>
+</edge>
+<edge source="GM" target="NI">
+  <data key="d2">0.058045348319417496</data>
+</edge>
+<edge source="HCA" target="NEM">
+  <data key="d2">0.04617455769523483</data>
+</edge>
+<edge source="HD" target="NEM">
+  <data key="d2">0.001200907863395174</data>
+</edge>
+<edge source="HIG" target="NEM">
+  <data key="d2">0.017070755103691375</data>
+</edge>
+<edge source="HLT" target="SO">
+  <data key="d2">-0.01426365342288153</data>
+</edge>
+<edge source="HOLX" target="RRC">
+  <data key="d2">0.03139368487490665</data>
+</edge>
+<edge source="HRS" target="UA">
+  <data key="d2">0.05458404057163038</data>
+</edge>
+<edge source="ICE" target="NEM">
+  <data key="d2">-0.0070211400336318945</data>
+</edge>
+<edge source="IDXX" target="NEM">
+  <data key="d2">0.06241775900801508</data>
+</edge>
+<edge source="ILMN" target="NEM">
+  <data key="d2">0.03355280221833739</data>
+</edge>
+<edge source="IPG" target="NEM">
+  <data key="d2">0.015332734846195724</data>
+</edge>
+<edge source="IQV" target="NEM">
+  <data key="d2">0.05690783398163218</data>
+</edge>
+<edge source="IT" target="NEM">
+  <data key="d2">0.05525087635542399</data>
+</edge>
+<edge source="ITW" target="NEM">
+  <data key="d2">0.11617035631883718</data>
+</edge>
+<edge source="IVZ" target="NEM">
+  <data key="d2">0.054531823432252685</data>
+</edge>
+<edge source="JBHT" target="NEM">
+  <data key="d2">0.05682107320549302</data>
+</edge>
+<edge source="JCI" target="LNT">
+  <data key="d2">0.0893315070259263</data>
+</edge>
+<edge source="JNJ" target="UA">
+  <data key="d2">0.04253078874972928</data>
+</edge>
+<edge source="K" target="MYL">
+  <data key="d2">0.029409895262505096</data>
+</edge>
+<edge source="KLAC" target="NEM">
+  <data key="d2">0.056597359742352076</data>
+</edge>
+<edge source="KMB" target="UA">
+  <data key="d2">0.003216394412967876</data>
+</edge>
+<edge source="KO" target="UA">
+  <data key="d2">0.03933096193353116</data>
+</edge>
+<edge source="KR" target="WLTW">
+  <data key="d2">0.01226278484438162</data>
+</edge>
+<edge source="KSS" target="NEM">
+  <data key="d2">-0.024856460600677116</data>
+</edge>
+<edge source="KSS" target="SYK">
+  <data key="d2">0.0927518818075758</data>
+</edge>
+<edge source="LEG" target="NEM">
+  <data key="d2">0.06962999394576437</data>
+</edge>
+<edge source="LH" target="NEM">
+  <data key="d2">0.05019208281595806</data>
+</edge>
+<edge source="LKQ" target="NEM">
+  <data key="d2">0.002243186379514513</data>
+</edge>
+<edge source="LLY" target="UA">
+  <data key="d2">0.04960721908787785</data>
+</edge>
+<edge source="LMT" target="UA">
+  <data key="d2">-0.0030138741716247397</data>
+</edge>
+<edge source="LNT" target="MON">
+  <data key="d2">0.033519408201101414</data>
+</edge>
+<edge source="LNT" target="WHR">
+  <data key="d2">0.08374560239325422</data>
+</edge>
+<edge source="LOW" target="NEM">
+  <data key="d2">-0.014264973014412268</data>
+</edge>
+<edge source="LUV" target="NEM">
+  <data key="d2">0.023374577572472466</data>
+</edge>
+<edge source="MA" target="NEM">
+  <data key="d2">0.04263673490597653</data>
+</edge>
+<edge source="MAS" target="NEM">
+  <data key="d2">0.07693912563396442</data>
+</edge>
+<edge source="MCD" target="NEM">
+  <data key="d2">0.047863328374252535</data>
+</edge>
+<edge source="MCO" target="NEM">
+  <data key="d2">0.0237389735950564</data>
+</edge>
+<edge source="MDLZ" target="UA">
+  <data key="d2">0.012347404722886321</data>
+</edge>
+<edge source="MLM" target="PCG">
+  <data key="d2">0.06999232179210191</data>
+</edge>
+<edge source="MNST" target="RRC">
+  <data key="d2">0.009681840521594202</data>
+</edge>
+<edge source="MPC" target="NWL">
+  <data key="d2">-0.033951543217580274</data>
+</edge>
+<edge source="MRO" target="NWL">
+  <data key="d2">-0.10354766958507665</data>
+</edge>
+<edge source="MTB" target="NEM">
+  <data key="d2">-0.0233537996245845</data>
+</edge>
+<edge source="NCLH" target="NEM">
+  <data key="d2">-0.0725021216808377</data>
+</edge>
+<edge source="NDAQ" target="UA">
+  <data key="d2">0.007033990696477762</data>
+</edge>
+<edge source="NEM" target="SYF">
+  <data key="d2">-0.0531420498647144</data>
+</edge>
+<edge source="NEM" target="RHI">
+  <data key="d2">-0.04044174781500897</data>
+</edge>
+<edge source="NEM" target="PBCT">
+  <data key="d2">-0.03760591508502252</data>
+</edge>
+<edge source="NEM" target="SRCL">
+  <data key="d2">-0.037351185675008045</data>
+</edge>
+<edge source="NEM" target="NKE">
+  <data key="d2">-0.022594614182385214</data>
+</edge>
+<edge source="NEM" target="NTRS">
+  <data key="d2">-0.014168417283240553</data>
+</edge>
+<edge source="NEM" target="WLTW">
+  <data key="d2">-0.013724176465320976</data>
+</edge>
+<edge source="NEM" target="WFC">
+  <data key="d2">-0.011078438057474155</data>
+</edge>
+<edge source="NEM" target="UAA">
+  <data key="d2">-0.010171587448574645</data>
+</edge>
+<edge source="NEM" target="UAL">
+  <data key="d2">-0.009329644262222077</data>
+</edge>
+<edge source="NEM" target="PRGO">
+  <data key="d2">-0.00332251692200343</data>
+</edge>
+<edge source="NEM" target="USB">
+  <data key="d2">0.0003018463968690077</data>
+</edge>
+<edge source="NEM" target="V">
+  <data key="d2">0.0027033606729177043</data>
+</edge>
+<edge source="NEM" target="PAYX">
+  <data key="d2">0.0032787959831953703</data>
+</edge>
+<edge source="NEM" target="RCL">
+  <data key="d2">0.008279951703054277</data>
+</edge>
+<edge source="NEM" target="PVH">
+  <data key="d2">0.015815870710345906</data>
+</edge>
+<edge source="NEM" target="SPGI">
+  <data key="d2">0.022353440817598127</data>
+</edge>
+<edge source="NEM" target="OMC">
+  <data key="d2">0.023752749359683172</data>
+</edge>
+<edge source="NEM" target="TMK">
+  <data key="d2">0.02665979435621343</data>
+</edge>
+<edge source="NEM" target="YUM">
+  <data key="d2">0.028904491528638356</data>
+</edge>
+<edge source="NEM" target="WU">
+  <data key="d2">0.030089277293274687</data>
+</edge>
+<edge source="NEM" target="NVDA">
+  <data key="d2">0.03316517048933233</data>
+</edge>
+<edge source="NEM" target="UNH">
+  <data key="d2">0.03324389406210878</data>
+</edge>
+<edge source="NEM" target="UHS">
+  <data key="d2">0.045005815758542816</data>
+</edge>
+<edge source="NEM" target="SNA">
+  <data key="d2">0.0463060684949997</data>
+</edge>
+<edge source="NEM" target="TIF">
+  <data key="d2">0.04974451965473714</data>
+</edge>
+<edge source="NEM" target="WM">
+  <data key="d2">0.04980577260149287</data>
+</edge>
+<edge source="NEM" target="UPS">
+  <data key="d2">0.05193130202181508</data>
+</edge>
+<edge source="NEM" target="NLSN">
+  <data key="d2">0.062423869104622186</data>
+</edge>
+<edge source="NEM" target="PFE">
+  <data key="d2">0.06378245374386501</data>
+</edge>
+<edge source="NEM" target="WYN">
+  <data key="d2">0.06773503555127082</data>
+</edge>
+<edge source="NEM" target="ZBH">
+  <data key="d2">0.0788382005984781</data>
+</edge>
+<edge source="NEM" target="RSG">
+  <data key="d2">0.08616580303895206</data>
+</edge>
+<edge source="NEM" target="TROW">
+  <data key="d2">0.08641181156990169</data>
+</edge>
+<edge source="NEM" target="ROP">
+  <data key="d2">0.0993840437574662</data>
+</edge>
+<edge source="NFLX" target="VNO">
+  <data key="d2">0.037747078929489294</data>
+</edge>
+<edge source="NI" target="UA">
+  <data key="d2">-0.10057351252436629</data>
+</edge>
+<edge source="NI" target="WRK">
+  <data key="d2">-0.03509290122396913</data>
+</edge>
+<edge source="NI" target="VRTX">
+  <data key="d2">0.019464830414504104</data>
+</edge>
+<edge source="NI" target="PCAR">
+  <data key="d2">0.06431060602472174</data>
+</edge>
+<edge source="NI" target="PHM">
+  <data key="d2">0.08197377274376033</data>
+</edge>
+<edge source="NOC" target="UA">
+  <data key="d2">-0.011153007131523405</data>
+</edge>
+<edge source="NSC" target="NWL">
+  <data key="d2">0.01648524857034536</data>
+</edge>
+<edge source="PCG" target="UA">
+  <data key="d2">-0.044668457661225076</data>
+</edge>
+<edge source="PEP" target="UA">
+  <data key="d2">0.016404984265624353</data>
+</edge>
+<edge source="PG" target="UA">
+  <data key="d2">-0.02107529469784107</data>
+</edge>
+<edge source="QRVO" target="SCG">
+  <data key="d2">-0.009978439858420335</data>
+</edge>
+<edge source="ROK" target="UA">
+  <data key="d2">0.09651260418929372</data>
+</edge>
+<edge source="SJM" target="UA">
+  <data key="d2">-0.04122845841737516</data>
+</edge>
+</graph></graphml>
