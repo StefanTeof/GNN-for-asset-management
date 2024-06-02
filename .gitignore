@@ -1,1 +1,6 @@
 .env
+/Data
+/Datasets
+/Models
+/Graphs
+/TorchDataPreprocessing

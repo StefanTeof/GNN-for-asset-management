@@ -1919,139 +1919,139 @@
   <data key="d1">Health Care</data>
 </node>
 <edge source="A" target="ATVI">
-  <data key="d2">0.102167347745397</data>
+  <data key="d2">0.10216750057770889</data>
 </edge>
 <edge source="AAL" target="NOC">
-  <data key="d2">0.023474025826287614</data>
+  <data key="d2">0.023474714864756854</data>
 </edge>
 <edge source="AAP" target="NEM">
-  <data key="d2">0.1034013314808733</data>
+  <data key="d2">0.10340094831668577</data>
 </edge>
 <edge source="AAPL" target="DVA">
-  <data key="d2">0.10233764802800908</data>
+  <data key="d2">0.10233695686813951</data>
 </edge>
 <edge source="ABBV" target="ENPH">
-  <data key="d2">0.03700568009734658</data>
+  <data key="d2">0.03700564490899934</data>
 </edge>
 <edge source="ABMD" target="K">
-  <data key="d2">-0.05053510037049572</data>
+  <data key="d2">-0.05053554687436574</data>
 </edge>
 <edge source="ABMD" target="CTLT">
   <data key="d2">-0.050468736106216175</data>
 </edge>
 <edge source="ABT" target="VLO">
-  <data key="d2">0.09456347821752281</data>
+  <data key="d2">0.09456344131208455</data>
 </edge>
 <edge source="ACN" target="NOC">
-  <data key="d2">0.155357025762044</data>
+  <data key="d2">0.1553579212332082</data>
 </edge>
 <edge source="ADBE" target="K">
-  <data key="d2">0.02510135827342937</data>
+  <data key="d2">0.025101710862110493</data>
 </edge>
 <edge source="ADI" target="K">
-  <data key="d2">0.07234823441113039</data>
+  <data key="d2">0.07234833824387048</data>
 </edge>
 <edge source="ADM" target="MRNA">
-  <data key="d2">0.04130615083790408</data>
+  <data key="d2">0.04130650057823133</data>
 </edge>
 <edge source="ADP" target="DVA">
-  <data key="d2">0.1160254832637537</data>
+  <data key="d2">0.11602552438471035</data>
 </edge>
 <edge source="ADSK" target="K">
-  <data key="d2">0.01405822156642783</data>
+  <data key="d2">0.014057677158181733</data>
 </edge>
 <edge source="AEE" target="LVS">
-  <data key="d2">0.06999050192880774</data>
+  <data key="d2">0.06999186710053501</data>
 </edge>
 <edge source="AEP" target="WYNN">
-  <data key="d2">0.053500273645066376</data>
+  <data key="d2">0.053500761753235336</data>
 </edge>
 <edge source="AES" target="DVA">
-  <data key="d2">0.13155381444541747</data>
+  <data key="d2">0.13155398638763</data>
 </edge>
 <edge source="AFL" target="ATVI">
-  <data key="d2">0.11807246390365679</data>
+  <data key="d2">0.11807229324434625</data>
 </edge>
 <edge source="AIG" target="ATVI">
-  <data key="d2">0.11549390819710721</data>
+  <data key="d2">0.11549400566340197</data>
 </edge>
 <edge source="AIZ" target="ATVI">
-  <data key="d2">0.06868458511753192</data>
+  <data key="d2">0.06868402030005433</data>
 </edge>
 <edge source="AJG" target="DVA">
-  <data key="d2">0.018793062463744653</data>
+  <data key="d2">0.018793092894141553</data>
 </edge>
 <edge source="AKAM" target="SLB">
-  <data key="d2">0.04102801994469926</data>
+  <data key="d2">0.041028487909824676</data>
 </edge>
 <edge source="ALB" target="GIS">
-  <data key="d2">-0.006504637875982864</data>
+  <data key="d2">-0.0065055903318559675</data>
 </edge>
 <edge source="ALGN" target="MRK">
-  <data key="d2">-0.020798297319026</data>
+  <data key="d2">-0.02079816302975219</data>
 </edge>
 <edge source="ALK" target="K">
-  <data key="d2">0.00869158530456531</data>
+  <data key="d2">0.008691686164139302</data>
 </edge>
 <edge source="ALL" target="ATVI">
-  <data key="d2">0.05012702018110913</data>
+  <data key="d2">0.05012738389301365</data>
 </edge>
 <edge source="ALLE" target="CF">
-  <data key="d2">0.08864060452988902</data>
+  <data key="d2">0.0886408860778092</data>
 </edge>
 <edge source="AMAT" target="K">
-  <data key="d2">0.030034372792128287</data>
+  <data key="d2">0.030033927525451413</data>
 </edge>
 <edge source="AMCR" target="ATVI">
-  <data key="d2">0.14829316655385796</data>
+  <data key="d2">0.14829348017107885</data>
 </edge>
 <edge source="AMD" target="K">
-  <data key="d2">-0.021982940933234073</data>
+  <data key="d2">-0.02198361891519122</data>
 </edge>
 <edge source="AME" target="ATVI">
-  <data key="d2">0.13384005075826375</data>
+  <data key="d2">0.13384093222721355</data>
 </edge>
 <edge source="AMGN" target="TTWO">
-  <data key="d2">-0.052730555592040936</data>
+  <data key="d2">-0.052730028351549385</data>
 </edge>
 <edge source="AMP" target="ATVI">
-  <data key="d2">0.13134281476069956</data>
+  <data key="d2">0.13134226990013878</data>
 </edge>
 <edge source="AMT" target="DVA">
-  <data key="d2">0.07747771985352232</data>
+  <data key="d2">0.07747741823159872</data>
 </edge>
 <edge source="AMZN" target="K">
-  <data key="d2">0.026564222579139717</data>
+  <data key="d2">0.02656405878383369</data>
 </edge>
 <edge source="ANET" target="CPB">
-  <data key="d2">0.05238247399137541</data>
+  <data key="d2">0.05238225686772124</data>
 </edge>
 <edge source="ANSS" target="K">
-  <data key="d2">0.01874866569523317</data>
+  <data key="d2">0.018748596659428605</data>
 </edge>
 <edge source="AON" target="SLB">
-  <data key="d2">0.10026289225956517</data>
+  <data key="d2">0.10026316027911254</data>
 </edge>
 <edge source="AOS" target="CF">
-  <data key="d2">0.08164752040798212</data>
+  <data key="d2">0.08164803246662587</data>
 </edge>
 <edge source="APA" target="KMB">
-  <data key="d2">-0.028693591284948205</data>
+  <data key="d2">-0.028693095285353767</data>
 </edge>
 <edge source="APD" target="ATVI">
-  <data key="d2">0.12352536734849213</data>
+  <data key="d2">0.12352570154814616</data>
 </edge>
 <edge source="APH" target="ATVI">
-  <data key="d2">0.12947950688473445</data>
+  <data key="d2">0.12947873638944404</data>
 </edge>
 <edge source="APTV" target="LMT">
-  <data key="d2">0.014801350098184502</data>
+  <data key="d2">0.014801154663037396</data>
 </edge>
 <edge source="ARE" target="ATVI">
-  <data key="d2">0.14430718353664704</data>
+  <data key="d2">0.14430763026765633</data>
 </edge>
 <edge source="ATO" target="MRNA">
-  <data key="d2">0.0876669625287865</data>
+  <data key="d2">0.08766674076983931</data>
 </edge>
 <edge source="ATVI" target="AZO">
   <data key="d2">-0.0329802684242987</data>
@@ -2060,43 +2060,43 @@
   <data key="d2">-0.032725349724766276</data>
 </edge>
 <edge source="ATVI" target="ROL">
-  <data key="d2">-0.013502525558252319</data>
+  <data key="d2">-0.013502549455681427</data>
 </edge>
 <edge source="ATVI" target="GS">
-  <data key="d2">-0.0031534025252747673</data>
+  <data key="d2">-0.003153369410719083</data>
 </edge>
 <edge source="ATVI" target="JPM">
-  <data key="d2">0.014141324265760707</data>
+  <data key="d2">0.014141066997360187</data>
 </edge>
 <edge source="ATVI" target="NSC">
-  <data key="d2">0.016680460538866477</data>
+  <data key="d2">0.016680784415460205</data>
 </edge>
 <edge source="ATVI" target="UNP">
-  <data key="d2">0.01884926937664125</data>
+  <data key="d2">0.018848929079634928</data>
 </edge>
 <edge source="ATVI" target="DG">
-  <data key="d2">0.021183789373708146</data>
+  <data key="d2">0.021183674951973992</data>
 </edge>
 <edge source="ATVI" target="ORLY">
   <data key="d2">0.02452798999822211</data>
 </edge>
 <edge source="ATVI" target="PNW">
-  <data key="d2">0.026376788383139494</data>
+  <data key="d2">0.02637675588207055</data>
 </edge>
 <edge source="ATVI" target="RMD">
-  <data key="d2">0.026493041410973986</data>
+  <data key="d2">0.026492581709152495</data>
 </edge>
 <edge source="ATVI" target="MCK">
-  <data key="d2">0.035046117498722086</data>
+  <data key="d2">0.03504677519136317</data>
 </edge>
 <edge source="ATVI" target="O">
-  <data key="d2">0.03744113928859846</data>
+  <data key="d2">0.03744084284571831</data>
 </edge>
 <edge source="ATVI" target="BIO">
   <data key="d2">0.04156788624761619</data>
 </edge>
 <edge source="ATVI" target="EVRG">
-  <data key="d2">0.04761276262737754</data>
+  <data key="d2">0.047611643329732674</data>
 </edge>
 <edge source="ATVI" target="DLTR">
   <data key="d2">0.05100814519441227</data>
@@ -2105,586 +2105,586 @@
   <data key="d2">0.05329545235863369</data>
 </edge>
 <edge source="ATVI" target="MS">
-  <data key="d2">0.05432391090640597</data>
+  <data key="d2">0.05432381212045592</data>
 </edge>
 <edge source="ATVI" target="WY">
-  <data key="d2">0.05510230319122448</data>
+  <data key="d2">0.055102646969544526</data>
 </edge>
 <edge source="ATVI" target="CSX">
-  <data key="d2">0.055324295212716174</data>
+  <data key="d2">0.055323410340456645</data>
 </edge>
 <edge source="ATVI" target="BAC">
-  <data key="d2">0.05888684507765879</data>
+  <data key="d2">0.05888689243630471</data>
 </edge>
 <edge source="ATVI" target="WRB">
-  <data key="d2">0.06767450710083203</data>
+  <data key="d2">0.06767477900751043</data>
 </edge>
 <edge source="ATVI" target="WM">
-  <data key="d2">0.06922562782242023</data>
+  <data key="d2">0.06922656631576878</data>
 </edge>
 <edge source="ATVI" target="SNA">
-  <data key="d2">0.06930355932173517</data>
+  <data key="d2">0.06930323385141973</data>
 </edge>
 <edge source="ATVI" target="FMC">
-  <data key="d2">0.07099308987830981</data>
+  <data key="d2">0.07099275682961502</data>
 </edge>
 <edge source="ATVI" target="CINF">
-  <data key="d2">0.07261215723621735</data>
+  <data key="d2">0.07261219545326567</data>
 </edge>
 <edge source="ATVI" target="PNC">
-  <data key="d2">0.0726847792234193</data>
+  <data key="d2">0.07268446749770298</data>
 </edge>
 <edge source="ATVI" target="CNC">
   <data key="d2">0.07342158147851495</data>
 </edge>
 <edge source="ATVI" target="SCHW">
-  <data key="d2">0.07485679258267515</data>
+  <data key="d2">0.0748568099201538</data>
 </edge>
 <edge source="ATVI" target="LEN">
-  <data key="d2">0.07494392884847456</data>
+  <data key="d2">0.07494371819521249</data>
 </edge>
 <edge source="ATVI" target="NUE">
-  <data key="d2">0.07502379578697364</data>
+  <data key="d2">0.0750236557700823</data>
 </edge>
 <edge source="ATVI" target="UNH">
-  <data key="d2">0.07523417899464532</data>
+  <data key="d2">0.07523417469317724</data>
 </edge>
 <edge source="ATVI" target="OGN">
-  <data key="d2">0.0777216213981353</data>
+  <data key="d2">0.0777217381372032</data>
 </edge>
 <edge source="ATVI" target="CB">
-  <data key="d2">0.0809506589442009</data>
+  <data key="d2">0.08095125921109367</data>
 </edge>
 <edge source="ATVI" target="CSCO">
-  <data key="d2">0.08168392527525607</data>
+  <data key="d2">0.0816839184034178</data>
 </edge>
 <edge source="ATVI" target="USB">
-  <data key="d2">0.08229766213538846</data>
+  <data key="d2">0.08229726421660906</data>
 </edge>
 <edge source="ATVI" target="BIIB">
   <data key="d2">0.08360223469001841</data>
 </edge>
 <edge source="ATVI" target="J">
-  <data key="d2">0.0851387644968344</data>
+  <data key="d2">0.08513864669792187</data>
 </edge>
 <edge source="ATVI" target="WAT">
   <data key="d2">0.08593967492872093</data>
 </edge>
 <edge source="ATVI" target="RSG">
-  <data key="d2">0.08623629067410302</data>
+  <data key="d2">0.0862362589839132</data>
 </edge>
 <edge source="ATVI" target="FITB">
-  <data key="d2">0.0866506817202278</data>
+  <data key="d2">0.08665070621893704</data>
 </edge>
 <edge source="ATVI" target="COST">
-  <data key="d2">0.08691266307353719</data>
+  <data key="d2">0.08691254969198417</data>
 </edge>
 <edge source="ATVI" target="BRO">
-  <data key="d2">0.0871199933018122</data>
+  <data key="d2">0.08711968829417129</data>
 </edge>
 <edge source="ATVI" target="UHS">
-  <data key="d2">0.08730154177098699</data>
+  <data key="d2">0.08730176105971835</data>
 </edge>
 <edge source="ATVI" target="PEP">
-  <data key="d2">0.0902070606203344</data>
+  <data key="d2">0.09020688727624561</data>
 </edge>
 <edge source="ATVI" target="GPC">
-  <data key="d2">0.09192391497799816</data>
+  <data key="d2">0.09192251419500871</data>
 </edge>
 <edge source="ATVI" target="HIG">
-  <data key="d2">0.09198427601655433</data>
+  <data key="d2">0.0919843620571806</data>
 </edge>
 <edge source="ATVI" target="FFIV">
   <data key="d2">0.09340117605180102</data>
 </edge>
 <edge source="ATVI" target="ORCL">
-  <data key="d2">0.09604153104561872</data>
+  <data key="d2">0.09604132923464337</data>
 </edge>
 <edge source="ATVI" target="ETN">
-  <data key="d2">0.09747474153619813</data>
+  <data key="d2">0.09747434622178802</data>
 </edge>
 <edge source="ATVI" target="HSIC">
   <data key="d2">0.09870485828067226</data>
 </edge>
 <edge source="ATVI" target="CMA">
-  <data key="d2">0.09881624162613353</data>
+  <data key="d2">0.09881627265180465</data>
 </edge>
 <edge source="ATVI" target="MSI">
-  <data key="d2">0.10035387482994203</data>
+  <data key="d2">0.10035330373265745</data>
 </edge>
 <edge source="ATVI" target="CARR">
-  <data key="d2">0.10160474577342259</data>
+  <data key="d2">0.10160489516281705</data>
 </edge>
 <edge source="ATVI" target="WAB">
-  <data key="d2">0.10400804629216287</data>
+  <data key="d2">0.1040077845722787</data>
 </edge>
 <edge source="ATVI" target="FRT">
-  <data key="d2">0.10911095867630817</data>
+  <data key="d2">0.10911120153874533</data>
 </edge>
 <edge source="ATVI" target="LIN">
-  <data key="d2">0.10940481895288703</data>
+  <data key="d2">0.10940464189850146</data>
 </edge>
 <edge source="ATVI" target="L">
-  <data key="d2">0.10987402248886076</data>
+  <data key="d2">0.10987424828087664</data>
 </edge>
 <edge source="ATVI" target="TSN">
-  <data key="d2">0.1102561785924843</data>
+  <data key="d2">0.11025599886150755</data>
 </edge>
 <edge source="ATVI" target="TSCO">
-  <data key="d2">0.11481024815055717</data>
+  <data key="d2">0.11481022902384587</data>
 </edge>
 <edge source="ATVI" target="HON">
-  <data key="d2">0.11510975019473453</data>
+  <data key="d2">0.11510947981680389</data>
 </edge>
 <edge source="ATVI" target="MDT">
-  <data key="d2">0.11545019003645311</data>
+  <data key="d2">0.11545003833301741</data>
 </edge>
 <edge source="ATVI" target="HPE">
-  <data key="d2">0.11597207667910918</data>
+  <data key="d2">0.11597257203875658</data>
 </edge>
 <edge source="ATVI" target="WRK">
-  <data key="d2">0.11623246353278939</data>
+  <data key="d2">0.11623284942415796</data>
 </edge>
 <edge source="ATVI" target="KMI">
-  <data key="d2">0.11961789307046737</data>
+  <data key="d2">0.11961754299471486</data>
 </edge>
 <edge source="ATVI" target="JBHT">
-  <data key="d2">0.11978136342525499</data>
+  <data key="d2">0.1197814887506597</data>
 </edge>
 <edge source="ATVI" target="STT">
-  <data key="d2">0.12094557390662133</data>
+  <data key="d2">0.12094640178626773</data>
 </edge>
 <edge source="ATVI" target="HPQ">
-  <data key="d2">0.12132567940689272</data>
+  <data key="d2">0.1213262778106659</data>
 </edge>
 <edge source="ATVI" target="CNP">
-  <data key="d2">0.12185880330026685</data>
+  <data key="d2">0.12185827645986498</data>
 </edge>
 <edge source="ATVI" target="BXP">
-  <data key="d2">0.12192607889728779</data>
+  <data key="d2">0.12192582280503293</data>
 </edge>
 <edge source="ATVI" target="DHR">
-  <data key="d2">0.12308269358809694</data>
+  <data key="d2">0.12308263691195913</data>
 </edge>
 <edge source="ATVI" target="VTR">
-  <data key="d2">0.12310630759702518</data>
+  <data key="d2">0.1231063038092079</data>
 </edge>
 <edge source="ATVI" target="HOLX">
   <data key="d2">0.12491801539945303</data>
 </edge>
 <edge source="ATVI" target="IRM">
-  <data key="d2">0.12519612134379415</data>
+  <data key="d2">0.1251959862693648</data>
 </edge>
 <edge source="ATVI" target="BSX">
   <data key="d2">0.12568009087999663</data>
 </edge>
 <edge source="ATVI" target="TGT">
-  <data key="d2">0.12592208977590436</data>
+  <data key="d2">0.12592218754270898</data>
 </edge>
 <edge source="ATVI" target="SYK">
-  <data key="d2">0.1279034515392409</data>
+  <data key="d2">0.12790337670552535</data>
 </edge>
 <edge source="ATVI" target="REG">
-  <data key="d2">0.1300167967831206</data>
+  <data key="d2">0.1300160946345323</data>
 </edge>
 <edge source="ATVI" target="CTAS">
-  <data key="d2">0.1328659297035214</data>
+  <data key="d2">0.13286580348571986</data>
 </edge>
 <edge source="ATVI" target="IEX">
-  <data key="d2">0.13332979690523641</data>
+  <data key="d2">0.13332965388936627</data>
 </edge>
 <edge source="ATVI" target="STE">
-  <data key="d2">0.13361311928776543</data>
+  <data key="d2">0.13361255925649976</data>
 </edge>
 <edge source="ATVI" target="GL">
-  <data key="d2">0.14145144228341727</data>
+  <data key="d2">0.14145070272165852</data>
 </edge>
 <edge source="ATVI" target="EQR">
-  <data key="d2">0.14296022736806457</data>
+  <data key="d2">0.14295959684083895</data>
 </edge>
 <edge source="ATVI" target="MAA">
-  <data key="d2">0.14617265616942238</data>
+  <data key="d2">0.14617233455136378</data>
 </edge>
 <edge source="ATVI" target="AVB">
-  <data key="d2">0.14722771414059688</data>
+  <data key="d2">0.14722690721280232</data>
 </edge>
 <edge source="ATVI" target="OKE">
-  <data key="d2">0.1497247217770667</data>
+  <data key="d2">0.14972493145582733</data>
 </edge>
 <edge source="ATVI" target="HWM">
-  <data key="d2">0.14995127303706032</data>
+  <data key="d2">0.1499508910835596</data>
 </edge>
 <edge source="ATVI" target="ESS">
-  <data key="d2">0.1551580044715576</data>
+  <data key="d2">0.15515770483653638</data>
 </edge>
 <edge source="ATVI" target="UDR">
-  <data key="d2">0.15707735339224566</data>
+  <data key="d2">0.1570769768393167</data>
 </edge>
 <edge source="ATVI" target="EMR">
-  <data key="d2">0.15728751049373466</data>
+  <data key="d2">0.1572879145349207</data>
 </edge>
 <edge source="ATVI" target="KIM">
-  <data key="d2">0.15820894553455536</data>
+  <data key="d2">0.1582083643722513</data>
 </edge>
 <edge source="ATVI" target="MET">
-  <data key="d2">0.16446211344959974</data>
+  <data key="d2">0.16446192683820604</data>
 </edge>
 <edge source="ATVI" target="PLD">
-  <data key="d2">0.1721728302468414</data>
+  <data key="d2">0.17217272803165395</data>
 </edge>
 <edge source="AVGO" target="K">
-  <data key="d2">0.10251895601449755</data>
+  <data key="d2">0.10251879835164401</data>
 </edge>
 <edge source="AVY" target="NOC">
-  <data key="d2">0.09605369955183755</data>
+  <data key="d2">0.09605414316137886</data>
 </edge>
 <edge source="AWK" target="CF">
-  <data key="d2">0.07693667996999347</data>
+  <data key="d2">0.07693651350608746</data>
 </edge>
 <edge source="AXP" target="KR">
-  <data key="d2">0.08683951975261611</data>
+  <data key="d2">0.08683889703302841</data>
 </edge>
 <edge source="BA" target="K">
-  <data key="d2">-0.009381901995561819</data>
+  <data key="d2">-0.009382489547580478</data>
 </edge>
 <edge source="BAX" target="ENPH">
-  <data key="d2">0.06651896247332946</data>
+  <data key="d2">0.06651867904051645</data>
 </edge>
 <edge source="BBWI" target="K">
-  <data key="d2">0.02224412091292151</data>
+  <data key="d2">0.02224455602358822</data>
 </edge>
 <edge source="BBY" target="NOC">
-  <data key="d2">0.09600200472514678</data>
+  <data key="d2">0.09600201192536274</data>
 </edge>
 <edge source="BDX" target="VLO">
-  <data key="d2">0.044449054761349804</data>
+  <data key="d2">0.044448670538932186</data>
 </edge>
 <edge source="BEN" target="CF">
-  <data key="d2">0.07488378476905137</data>
+  <data key="d2">0.07488379129131212</data>
 </edge>
 <edge source="BK" target="KHC">
-  <data key="d2">0.11613448092340854</data>
+  <data key="d2">0.11613520123559498</data>
 </edge>
 <edge source="BKNG" target="NOC">
-  <data key="d2">-0.03258864970699232</data>
+  <data key="d2">-0.032588366164558465</data>
 </edge>
 <edge source="BKR" target="KMB">
-  <data key="d2">0.0060932919672171786</data>
+  <data key="d2">0.006092469201798528</data>
 </edge>
 <edge source="BLK" target="CPB">
-  <data key="d2">0.14730350156807182</data>
+  <data key="d2">0.1473041110480578</data>
 </edge>
 <edge source="BMY" target="DVA">
-  <data key="d2">0.00025243347983699944</data>
+  <data key="d2">0.0002523969465208217</data>
 </edge>
 <edge source="BR" target="SLB">
-  <data key="d2">0.12128716489946298</data>
+  <data key="d2">0.12128824138324946</data>
 </edge>
 <edge source="BWA" target="NOC">
-  <data key="d2">0.052110198067415466</data>
+  <data key="d2">0.052110114130306306</data>
 </edge>
 <edge source="C" target="KR">
-  <data key="d2">0.11178170341502668</data>
+  <data key="d2">0.1117810678516306</data>
 </edge>
 <edge source="CAG" target="ENPH">
-  <data key="d2">-0.057991937075635554</data>
+  <data key="d2">-0.05799237521131247</data>
 </edge>
 <edge source="CAH" target="CTLT">
-  <data key="d2">0.07935931012721953</data>
+  <data key="d2">0.07935927964047329</data>
 </edge>
 <edge source="CAT" target="CHD">
-  <data key="d2">0.04149784523843145</data>
+  <data key="d2">0.041497227597006706</data>
 </edge>
 <edge source="CBOE" target="DVA">
   <data key="d2">0.04173125072912496</data>
 </edge>
 <edge source="CBRE" target="LMT">
-  <data key="d2">0.10054831499884889</data>
+  <data key="d2">0.10054812897405764</data>
 </edge>
 <edge source="CCI" target="DVA">
-  <data key="d2">0.06951338587371349</data>
+  <data key="d2">0.0695129553075293</data>
 </edge>
 <edge source="CCL" target="CPB">
-  <data key="d2">-0.010470399195956652</data>
+  <data key="d2">-0.01047009796782031</data>
 </edge>
 <edge source="CDAY" target="K">
-  <data key="d2">-0.03176465591326851</data>
+  <data key="d2">-0.03176510668646741</data>
 </edge>
 <edge source="CDNS" target="K">
-  <data key="d2">0.02379375204276241</data>
+  <data key="d2">0.023793616630550032</data>
 </edge>
 <edge source="CDW" target="K">
-  <data key="d2">0.15055383647834986</data>
+  <data key="d2">0.1505538606769026</data>
 </edge>
 <edge source="CE" target="K">
-  <data key="d2">0.09370011647072311</data>
+  <data key="d2">0.09369958475558837</data>
 </edge>
 <edge source="CF" target="KMB">
-  <data key="d2">-0.06952313927151862</data>
+  <data key="d2">-0.06952272589089392</data>
 </edge>
 <edge source="CF" target="CLX">
-  <data key="d2">-0.04219283432154602</data>
+  <data key="d2">-0.04219255333522916</data>
 </edge>
 <edge source="CF" target="CL">
-  <data key="d2">-0.035284230345738674</data>
+  <data key="d2">-0.03528448941533047</data>
 </edge>
 <edge source="CF" target="LW">
-  <data key="d2">-0.021130260373608684</data>
+  <data key="d2">-0.021129751206040315</data>
 </edge>
 <edge source="CF" target="PPG">
-  <data key="d2">-0.008134193613447275</data>
+  <data key="d2">-0.008134015005216176</data>
 </edge>
 <edge source="CF" target="NWL">
-  <data key="d2">0.0035230667630425875</data>
+  <data key="d2">0.0035230292754698405</data>
 </edge>
 <edge source="CF" target="WHR">
-  <data key="d2">0.007178763981442477</data>
+  <data key="d2">0.007178597725831233</data>
 </edge>
 <edge source="CF" target="POOL">
-  <data key="d2">0.013923022089073114</data>
+  <data key="d2">0.013923108198776455</data>
 </edge>
 <edge source="CF" target="MDLZ">
-  <data key="d2">0.033194483678644984</data>
+  <data key="d2">0.03319519722621283</data>
 </edge>
 <edge source="CF" target="SWK">
-  <data key="d2">0.03960129963189047</data>
+  <data key="d2">0.0396019727378444</data>
 </edge>
 <edge source="CF" target="MAS">
-  <data key="d2">0.04528982687338395</data>
+  <data key="d2">0.045290261907956</data>
 </edge>
 <edge source="CF" target="ECL">
-  <data key="d2">0.04690956037971877</data>
+  <data key="d2">0.046909413425845335</data>
 </edge>
 <edge source="CF" target="DHI">
-  <data key="d2">0.05157412775935536</data>
+  <data key="d2">0.05157458430604992</data>
 </edge>
 <edge source="CF" target="IFF">
-  <data key="d2">0.05478268238351736</data>
+  <data key="d2">0.05478272928467995</data>
 </edge>
 <edge source="CF" target="PHM">
-  <data key="d2">0.06893228437682178</data>
+  <data key="d2">0.06893246589158253</data>
 </edge>
 <edge source="CF" target="WU">
-  <data key="d2">0.07355944375677309</data>
+  <data key="d2">0.07355927646810602</data>
 </edge>
 <edge source="CF" target="LOW">
-  <data key="d2">0.07832821633706577</data>
+  <data key="d2">0.07832827369305582</data>
 </edge>
 <edge source="CF" target="YUM">
-  <data key="d2">0.08199377941172256</data>
+  <data key="d2">0.08199391750997692</data>
 </edge>
 <edge source="CF" target="KO">
-  <data key="d2">0.08467146491613742</data>
+  <data key="d2">0.0846716094156158</data>
 </edge>
 <edge source="CF" target="MMM">
-  <data key="d2">0.08746660970347589</data>
+  <data key="d2">0.08746664182929184</data>
 </edge>
 <edge source="CF" target="IPG">
-  <data key="d2">0.08928105212532739</data>
+  <data key="d2">0.08928104751702899</data>
 </edge>
 <edge source="CF" target="SEE">
-  <data key="d2">0.09338124151749999</data>
+  <data key="d2">0.09338076938799636</data>
 </edge>
 <edge source="CF" target="GRMN">
-  <data key="d2">0.09751695064994849</data>
+  <data key="d2">0.09751707852968855</data>
 </edge>
 <edge source="CF" target="NVR">
-  <data key="d2">0.09809682922232754</data>
+  <data key="d2">0.09809712010419486</data>
 </edge>
 <edge source="CF" target="XYL">
-  <data key="d2">0.10095380267499242</data>
+  <data key="d2">0.10095350845736316</data>
 </edge>
 <edge source="CF" target="HD">
-  <data key="d2">0.10412301191909631</data>
+  <data key="d2">0.1041238980821376</data>
 </edge>
 <edge source="CF" target="DLR">
-  <data key="d2">0.11426026216254703</data>
+  <data key="d2">0.11426084223709548</data>
 </edge>
 <edge source="CF" target="CTSH">
-  <data key="d2">0.1167735025585405</data>
+  <data key="d2">0.11677380644090547</data>
 </edge>
 <edge source="CF" target="IQV">
-  <data key="d2">0.12592184849277774</data>
+  <data key="d2">0.12592200160682268</data>
 </edge>
 <edge source="CF" target="OTIS">
-  <data key="d2">0.12966303082808078</data>
+  <data key="d2">0.12966314252783329</data>
 </edge>
 <edge source="CF" target="FTV">
-  <data key="d2">0.14633681670064536</data>
+  <data key="d2">0.14633678971937142</data>
 </edge>
 <edge source="CF" target="ITW">
-  <data key="d2">0.14939035689984015</data>
+  <data key="d2">0.14939037041335648</data>
 </edge>
 <edge source="CF" target="DOV">
-  <data key="d2">0.16385274195618518</data>
+  <data key="d2">0.16385262744674553</data>
 </edge>
 <edge source="CF" target="PH">
-  <data key="d2">0.19041670918641979</data>
+  <data key="d2">0.1904169751293384</data>
 </edge>
 <edge source="CFG" target="NEM">
-  <data key="d2">0.07088687465313662</data>
+  <data key="d2">0.07088683464347878</data>
 </edge>
 <edge source="CHD" target="CVX">
-  <data key="d2">-0.0817235612827448</data>
+  <data key="d2">-0.08172387932592683</data>
 </edge>
 <edge source="CHD" target="VLO">
-  <data key="d2">-0.06272557258613147</data>
+  <data key="d2">-0.06272569954812021</data>
 </edge>
 <edge source="CHD" target="PSX">
-  <data key="d2">-0.03774800538588551</data>
+  <data key="d2">-0.037747629886832</data>
 </edge>
 <edge source="CHRW" target="HUM">
-  <data key="d2">0.06375822919062815</data>
+  <data key="d2">0.06375800543426867</data>
 </edge>
 <edge source="CI" target="UA">
-  <data key="d2">0.10953292121310189</data>
+  <data key="d2">0.10953262763123173</data>
 </edge>
 <edge source="CLX" target="CTVA">
-  <data key="d2">-0.010172454371521627</data>
+  <data key="d2">-0.010172617148684417</data>
 </edge>
 <edge source="CLX" target="DE">
-  <data key="d2">0.05018233313794103</data>
+  <data key="d2">0.050181386747057286</data>
 </edge>
 <edge source="CLX" target="LYB">
-  <data key="d2">0.07341289031813486</data>
+  <data key="d2">0.07341378453555554</data>
 </edge>
 <edge source="CLX" target="PRU">
-  <data key="d2">0.14155323014391566</data>
+  <data key="d2">0.14155403736111122</data>
 </edge>
 <edge source="CMCSA" target="NOC">
-  <data key="d2">0.08524830527116284</data>
+  <data key="d2">0.08524962478981189</data>
 </edge>
 <edge source="CME" target="DVA">
-  <data key="d2">0.029699407639042427</data>
+  <data key="d2">0.029699143139645015</data>
 </edge>
 <edge source="CMG" target="K">
-  <data key="d2">-0.020050139430553497</data>
+  <data key="d2">-0.020050275549724154</data>
 </edge>
 <edge source="CMI" target="NEM">
-  <data key="d2">0.12237808992235089</data>
+  <data key="d2">0.12237776589856122</data>
 </edge>
 <edge source="CMS" target="LVS">
-  <data key="d2">0.02259886450429229</data>
+  <data key="d2">0.02259898090116851</data>
 </edge>
 <edge source="COF" target="NOC">
-  <data key="d2">0.11657176049818137</data>
+  <data key="d2">0.11657193206977681</data>
 </edge>
 <edge source="COO" target="CPB">
-  <data key="d2">0.08643401965189183</data>
+  <data key="d2">0.08643444600589914</data>
 </edge>
 <edge source="COP" target="KMB">
-  <data key="d2">-0.04435836323537188</data>
+  <data key="d2">-0.044359102669305706</data>
 </edge>
 <edge source="CPB" target="ENPH">
-  <data key="d2">-0.08598647596078474</data>
+  <data key="d2">-0.0859866319807557</data>
 </edge>
 <edge source="CPB" target="EXPE">
-  <data key="d2">-0.0427888321963309</data>
+  <data key="d2">-0.04278883877722818</data>
 </edge>
 <edge source="CPB" target="MTCH">
-  <data key="d2">-0.025263719712997543</data>
+  <data key="d2">-0.025263799513230736</data>
 </edge>
 <edge source="CPB" target="GNRC">
-  <data key="d2">0.014473711185943173</data>
+  <data key="d2">0.014473480003031175</data>
 </edge>
 <edge source="CPB" target="DISH">
-  <data key="d2">0.048615400323672626</data>
+  <data key="d2">0.048615891653701636</data>
 </edge>
 <edge source="CPB" target="GOOG">
-  <data key="d2">0.05939954225515749</data>
+  <data key="d2">0.05939947922820797</data>
 </edge>
 <edge source="CPB" target="SWKS">
-  <data key="d2">0.05954205085532801</data>
+  <data key="d2">0.05954256417693396</data>
 </edge>
 <edge source="CPB" target="GOOGL">
-  <data key="d2">0.06423315926512467</data>
+  <data key="d2">0.06423310664561976</data>
 </edge>
 <edge source="CPB" target="ROK">
-  <data key="d2">0.07604194994134332</data>
+  <data key="d2">0.0760423987116772</data>
 </edge>
 <edge source="CPB" target="TXN">
-  <data key="d2">0.08405537337346004</data>
+  <data key="d2">0.08405524355085406</data>
 </edge>
 <edge source="CPB" target="MTD">
-  <data key="d2">0.08558991772681016</data>
+  <data key="d2">0.08558945213698056</data>
 </edge>
 <edge source="CPB" target="MCO">
-  <data key="d2">0.08832804124892024</data>
+  <data key="d2">0.08832829099267464</data>
 </edge>
 <edge source="CPB" target="ZBRA">
-  <data key="d2">0.09592994590339811</data>
+  <data key="d2">0.09593014596305094</data>
 </edge>
 <edge source="CPB" target="TROW">
-  <data key="d2">0.10624594987654318</data>
+  <data key="d2">0.10624603776564724</data>
 </edge>
 <edge source="CPB" target="ZBH">
-  <data key="d2">0.12965340166986916</data>
+  <data key="d2">0.1296530547819763</data>
 </edge>
 <edge source="CPRT" target="SLB">
-  <data key="d2">0.0371036869332824</data>
+  <data key="d2">0.03710394870395963</data>
 </edge>
 <edge source="CRL" target="K">
-  <data key="d2">0.041895047040398606</data>
+  <data key="d2">0.041894353663279246</data>
 </edge>
 <edge source="CRM" target="K">
-  <data key="d2">-0.0019817491541003506</data>
+  <data key="d2">-0.0019816489608408235</data>
 </edge>
 <edge source="CTRA" target="MRNA">
-  <data key="d2">0.01728990138278656</data>
+  <data key="d2">0.017290060425779033</data>
 </edge>
 <edge source="CVS" target="ENPH">
-  <data key="d2">0.054281536869416086</data>
+  <data key="d2">0.054281466524278836</data>
 </edge>
 <edge source="CZR" target="K">
-  <data key="d2">-0.03332994788107857</data>
+  <data key="d2">-0.03333021979866286</data>
 </edge>
 <edge source="D" target="WYNN">
-  <data key="d2">0.008473831745781762</data>
+  <data key="d2">0.008473322340391167</data>
 </edge>
 <edge source="DAL" target="NOC">
-  <data key="d2">0.020557898878423835</data>
+  <data key="d2">0.020558507943017768</data>
 </edge>
 <edge source="DD" target="KHC">
-  <data key="d2">0.16733749767923575</data>
+  <data key="d2">0.1673383191765662</data>
 </edge>
 <edge source="DFS" target="HRL">
-  <data key="d2">0.11737083937049464</data>
+  <data key="d2">0.11737076852644322</data>
 </edge>
 <edge source="DGX" target="VLO">
-  <data key="d2">0.04302484263303032</data>
+  <data key="d2">0.04302544632618953</data>
 </edge>
 <edge source="DIS" target="GIS">
-  <data key="d2">0.0651977448516089</data>
+  <data key="d2">0.06519754461517761</data>
 </edge>
 <edge source="DOW" target="NOC">
-  <data key="d2">0.08214918760536959</data>
+  <data key="d2">0.08214951980179956</data>
 </edge>
 <edge source="DPZ" target="K">
-  <data key="d2">0.044826679030392814</data>
+  <data key="d2">0.04482654636202772</data>
 </edge>
 <edge source="DRI" target="LMT">
-  <data key="d2">0.02349321500318483</data>
+  <data key="d2">0.023493324555456573</data>
 </edge>
 <edge source="DTE" target="DVA">
-  <data key="d2">0.03838123980207616</data>
+  <data key="d2">0.038380878336986175</data>
 </edge>
 <edge source="DUK" target="WYNN">
-  <data key="d2">-0.010626081000893782</data>
+  <data key="d2">-0.01062622534243773</data>
 </edge>
 <edge source="DVA" target="GILD">
-  <data key="d2">-0.1626574859202605</data>
+  <data key="d2">-0.1626579024289489</data>
 </edge>
 <edge source="DVA" target="LMT">
-  <data key="d2">-0.10133490919626345</data>
+  <data key="d2">-0.10133479489522483</data>
 </edge>
 <edge source="DVA" target="LDOS">
-  <data key="d2">-0.025011500892902067</data>
+  <data key="d2">-0.02501186101688489</data>
 </edge>
 <edge source="DVA" target="VRTX">
   <data key="d2">-0.022296549721704004</data>
 </edge>
 <edge source="DVA" target="RTX">
-  <data key="d2">-0.007152529295647419</data>
+  <data key="d2">-0.0071521506264604455</data>
 </edge>
 <edge source="DVA" target="TMUS">
   <data key="d2">-0.0020472842028166124</data>
@@ -2693,663 +2693,663 @@
   <data key="d2">0.007592862264812489</data>
 </edge>
 <edge source="DVA" target="GWW">
-  <data key="d2">0.01099860637542434</data>
+  <data key="d2">0.010999601289675155</data>
 </edge>
 <edge source="DVA" target="VRSN">
   <data key="d2">0.020433637678476887</data>
 </edge>
 <edge source="DVA" target="HII">
-  <data key="d2">0.0318236566334702</data>
+  <data key="d2">0.03182374680046014</data>
 </edge>
 <edge source="DVA" target="PGR">
-  <data key="d2">0.032054445428723446</data>
+  <data key="d2">0.03205437062450293</data>
 </edge>
 <edge source="DVA" target="NEE">
-  <data key="d2">0.03566620609075861</data>
+  <data key="d2">0.035666086553702854</data>
 </edge>
 <edge source="DVA" target="PFE">
-  <data key="d2">0.04694611876497942</data>
+  <data key="d2">0.04694564539780477</data>
 </edge>
 <edge source="DVA" target="ES">
-  <data key="d2">0.05127523342323176</data>
+  <data key="d2">0.05127496729752611</data>
 </edge>
 <edge source="DVA" target="INTC">
-  <data key="d2">0.052094121460572566</data>
+  <data key="d2">0.05209404763691579</data>
 </edge>
 <edge source="DVA" target="SBAC">
-  <data key="d2">0.05747086849356416</data>
+  <data key="d2">0.05747095165891241</data>
 </edge>
 <edge source="DVA" target="GD">
-  <data key="d2">0.060597745489964716</data>
+  <data key="d2">0.06059761070711938</data>
 </edge>
 <edge source="DVA" target="PSA">
-  <data key="d2">0.06130346095744702</data>
+  <data key="d2">0.061303413364310326</data>
 </edge>
 <edge source="DVA" target="PEG">
-  <data key="d2">0.08427214324250643</data>
+  <data key="d2">0.08427219384089674</data>
 </edge>
 <edge source="DVA" target="NI">
-  <data key="d2">0.0854562539219052</data>
+  <data key="d2">0.08545606223224729</data>
 </edge>
 <edge source="DVA" target="EIX">
-  <data key="d2">0.08591235395930227</data>
+  <data key="d2">0.08591235751581669</data>
 </edge>
 <edge source="DVA" target="ICE">
-  <data key="d2">0.0865848629280931</data>
+  <data key="d2">0.08658504517294174</data>
 </edge>
 <edge source="DVA" target="MMC">
-  <data key="d2">0.0873963255368093</data>
+  <data key="d2">0.08739632905892349</data>
 </edge>
 <edge source="DVA" target="STZ">
-  <data key="d2">0.08874597823101726</data>
+  <data key="d2">0.08874597099504578</data>
 </edge>
 <edge source="DVA" target="T">
-  <data key="d2">0.09109642910888593</data>
+  <data key="d2">0.09109634209227171</data>
 </edge>
 <edge source="DVA" target="TDY">
   <data key="d2">0.09295145823400165</data>
 </edge>
 <edge source="DVA" target="EXR">
-  <data key="d2">0.0941900697452833</data>
+  <data key="d2">0.09418908952466529</data>
 </edge>
 <edge source="DVA" target="EXC">
-  <data key="d2">0.09720468887313186</data>
+  <data key="d2">0.09720447662698173</data>
 </edge>
 <edge source="DVA" target="SRE">
-  <data key="d2">0.1004914510630798</data>
+  <data key="d2">0.1004923186623055</data>
 </edge>
 <edge source="DVA" target="NDAQ">
-  <data key="d2">0.10280364343461953</data>
+  <data key="d2">0.10280381123699922</data>
 </edge>
 <edge source="DVA" target="FAST">
-  <data key="d2">0.10928156578748136</data>
+  <data key="d2">0.10928075303980855</data>
 </edge>
 <edge source="DVA" target="PPL">
-  <data key="d2">0.11359352747687221</data>
+  <data key="d2">0.11359342209244068</data>
 </edge>
 <edge source="DVA" target="ROP">
-  <data key="d2">0.11880699803940482</data>
+  <data key="d2">0.11880722161224672</data>
 </edge>
 <edge source="DVA" target="WELL">
-  <data key="d2">0.11946769924717233</data>
+  <data key="d2">0.11946711697307955</data>
 </edge>
 <edge source="DVA" target="PFG">
-  <data key="d2">0.12007737646618788</data>
+  <data key="d2">0.12007708808540521</data>
 </edge>
 <edge source="DVA" target="LUMN">
-  <data key="d2">0.12174214638194165</data>
+  <data key="d2">0.12174219403577548</data>
 </edge>
 <edge source="DVA" target="PEAK">
-  <data key="d2">0.13897933377692454</data>
+  <data key="d2">0.1389793516851758</data>
 </edge>
 <edge source="DVA" target="PAYX">
-  <data key="d2">0.15684637120488631</data>
+  <data key="d2">0.15684610683014288</data>
 </edge>
 <edge source="DVN" target="KMB">
-  <data key="d2">-0.04927654260482475</data>
+  <data key="d2">-0.04927578999127248</data>
 </edge>
 <edge source="DXC" target="LMT">
-  <data key="d2">0.03671531124096081</data>
+  <data key="d2">0.036715102993057726</data>
 </edge>
 <edge source="EA" target="K">
-  <data key="d2">0.052410861728041006</data>
+  <data key="d2">0.05241137729210501</data>
 </edge>
 <edge source="EBAY" target="K">
-  <data key="d2">0.06505478562663916</data>
+  <data key="d2">0.06505503713023389</data>
 </edge>
 <edge source="ED" target="WYNN">
-  <data key="d2">0.032933590811497854</data>
+  <data key="d2">0.032934343885920765</data>
 </edge>
 <edge source="EFX" target="MO">
-  <data key="d2">0.05671378836580154</data>
+  <data key="d2">0.05671342109864577</data>
 </edge>
 <edge source="EL" target="NOC">
-  <data key="d2">0.015891767183176447</data>
+  <data key="d2">0.015891995965330512</data>
 </edge>
 <edge source="EMN" target="NOC">
-  <data key="d2">0.17041127453514412</data>
+  <data key="d2">0.17041133310168882</data>
 </edge>
 <edge source="ENPH" target="K">
-  <data key="d2">-0.15381279711613627</data>
+  <data key="d2">-0.15381324429565343</data>
 </edge>
 <edge source="ENPH" target="SJM">
-  <data key="d2">-0.09527427727801839</data>
+  <data key="d2">-0.09527402435359159</data>
 </edge>
 <edge source="ENPH" target="KHC">
-  <data key="d2">-0.07021389365257054</data>
+  <data key="d2">-0.07021400324300715</data>
 </edge>
 <edge source="ENPH" target="PM">
-  <data key="d2">-0.019089123902778157</data>
+  <data key="d2">-0.019089221145838116</data>
 </edge>
 <edge source="ENPH" target="MO">
-  <data key="d2">-0.0024254438311221193</data>
+  <data key="d2">-0.0024252496748749072</data>
 </edge>
 <edge source="ENPH" target="TAP">
-  <data key="d2">0.029910600742363846</data>
+  <data key="d2">0.02991039711672091</data>
 </edge>
 <edge source="ENPH" target="TRV">
-  <data key="d2">0.06466466521999395</data>
+  <data key="d2">0.06466461300402193</data>
 </edge>
 <edge source="EOG" target="KMB">
-  <data key="d2">-0.048001594786586596</data>
+  <data key="d2">-0.04800117123565798</data>
 </edge>
 <edge source="EOG" target="SHW">
-  <data key="d2">-0.011047469161655752</data>
+  <data key="d2">-0.011046944698354677</data>
 </edge>
 <edge source="EQIX" target="K">
-  <data key="d2">0.08049542653496372</data>
+  <data key="d2">0.08049508203840668</data>
 </edge>
 <edge source="ETR" target="MRNA">
-  <data key="d2">0.10125227000781231</data>
+  <data key="d2">0.10125173690019611</data>
 </edge>
 <edge source="ETSY" target="K">
-  <data key="d2">-0.09680626061592079</data>
+  <data key="d2">-0.09680609609773155</data>
 </edge>
 <edge source="EW" target="GILD">
-  <data key="d2">0.02022720039843138</data>
+  <data key="d2">0.020227497363005296</data>
 </edge>
 <edge source="EXPD" target="LMT">
-  <data key="d2">0.11988460473138114</data>
+  <data key="d2">0.11988437778912307</data>
 </edge>
 <edge source="F" target="LMT">
-  <data key="d2">0.08676675784838625</data>
+  <data key="d2">0.08676675501338191</data>
 </edge>
 <edge source="FANG" target="KMB">
-  <data key="d2">-0.0695926274620198</data>
+  <data key="d2">-0.06959252533972787</data>
 </edge>
 <edge source="FCX" target="K">
-  <data key="d2">0.029835856197739458</data>
+  <data key="d2">0.029834705342358485</data>
 </edge>
 <edge source="FDX" target="LMT">
-  <data key="d2">0.016465052405946076</data>
+  <data key="d2">0.0164650061522154</data>
 </edge>
 <edge source="FDX" target="NEM">
-  <data key="d2">0.02401739213971474</data>
+  <data key="d2">0.02401749885883531</data>
 </edge>
 <edge source="FE" target="LVS">
-  <data key="d2">0.05610433048543502</data>
+  <data key="d2">0.056103524798132395</data>
 </edge>
 <edge source="FIS" target="KR">
-  <data key="d2">0.030410352535931058</data>
+  <data key="d2">0.03041010512190296</data>
 </edge>
 <edge source="FLT" target="K">
-  <data key="d2">0.09143024908179179</data>
+  <data key="d2">0.09143042276642248</data>
 </edge>
 <edge source="FOX" target="K">
-  <data key="d2">0.06349636682173436</data>
+  <data key="d2">0.0634964233472397</data>
 </edge>
 <edge source="FOXA" target="K">
-  <data key="d2">0.05512346211392319</data>
+  <data key="d2">0.055123610497010166</data>
 </edge>
 <edge source="FTNT" target="SJM">
-  <data key="d2">0.04083469001373551</data>
+  <data key="d2">0.04083482230250956</data>
 </edge>
 <edge source="GE" target="K">
-  <data key="d2">0.10392324236630884</data>
+  <data key="d2">0.10392308261752942</data>
 </edge>
 <edge source="GIS" target="LYV">
-  <data key="d2">-0.053438142825984726</data>
+  <data key="d2">-0.05343892716813505</data>
 </edge>
 <edge source="GIS" target="VLO">
-  <data key="d2">-0.031149965760855883</data>
+  <data key="d2">-0.03114991164634427</data>
 </edge>
 <edge source="GIS" target="HST">
-  <data key="d2">0.049185686259389405</data>
+  <data key="d2">0.04918509463800917</data>
 </edge>
 <edge source="GIS" target="WDC">
-  <data key="d2">0.059459974813658015</data>
+  <data key="d2">0.05945990678591325</data>
 </edge>
 <edge source="GLW" target="NOC">
-  <data key="d2">0.08995557406317087</data>
+  <data key="d2">0.08995590821248158</data>
 </edge>
 <edge source="GM" target="NOC">
-  <data key="d2">0.05574511557719516</data>
+  <data key="d2">0.05574514269782289</data>
 </edge>
 <edge source="GPN" target="KR">
-  <data key="d2">0.06707960137786394</data>
+  <data key="d2">0.0670789747079833</data>
 </edge>
 <edge source="GPS" target="NOC">
-  <data key="d2">0.0009417573815810934</data>
+  <data key="d2">0.0009424823390234233</data>
 </edge>
 <edge source="HAL" target="KMB">
-  <data key="d2">-0.03869309523753174</data>
+  <data key="d2">-0.03869325879661977</data>
 </edge>
 <edge source="HAS" target="LMT">
-  <data key="d2">0.07145028167743334</data>
+  <data key="d2">0.07145016259832493</data>
 </edge>
 <edge source="HBAN" target="NEM">
-  <data key="d2">0.07742463602366455</data>
+  <data key="d2">0.0774243048726278</data>
 </edge>
 <edge source="HBI" target="NOC">
-  <data key="d2">0.021742669770987544</data>
+  <data key="d2">0.021743046759089633</data>
 </edge>
 <edge source="HCA" target="KMB">
-  <data key="d2">0.0680368955047716</data>
+  <data key="d2">0.06803766943668633</data>
 </edge>
 <edge source="HES" target="KMB">
-  <data key="d2">0.01693152185037906</data>
+  <data key="d2">0.016931641893822902</data>
 </edge>
 <edge source="HES" target="HUM">
-  <data key="d2">0.050724469796261336</data>
+  <data key="d2">0.05072444548689381</data>
 </edge>
 <edge source="HLT" target="K">
-  <data key="d2">-0.013503454398762596</data>
+  <data key="d2">-0.013503804921731434</data>
 </edge>
 <edge source="HRL" target="LYV">
-  <data key="d2">-0.019779399893571598</data>
+  <data key="d2">-0.019779259442241015</data>
 </edge>
 <edge source="HRL" target="TJX">
-  <data key="d2">0.02146965276707425</data>
+  <data key="d2">0.021469061071307343</data>
 </edge>
 <edge source="HSY" target="MRNA">
-  <data key="d2">-0.01343470408128729</data>
+  <data key="d2">-0.01343547378979573</data>
 </edge>
 <edge source="HUM" target="WMB">
-  <data key="d2">0.1086501090012334</data>
+  <data key="d2">0.10865069366378884</data>
 </edge>
 <edge source="IBM" target="NFLX">
-  <data key="d2">0.023373353691190413</data>
+  <data key="d2">0.023372917536985293</data>
 </edge>
 <edge source="IDXX" target="K">
-  <data key="d2">0.03867908723064577</data>
+  <data key="d2">0.038679040055805414</data>
 </edge>
 <edge source="ILMN" target="K">
-  <data key="d2">-0.025042828036141176</data>
+  <data key="d2">-0.02504337353483891</data>
 </edge>
 <edge source="INCY" target="K">
-  <data key="d2">0.05987436511312292</data>
+  <data key="d2">0.05987383870914971</data>
 </edge>
 <edge source="INTU" target="K">
-  <data key="d2">0.0489822455347113</data>
+  <data key="d2">0.04898239269366086</data>
 </edge>
 <edge source="IP" target="NOC">
-  <data key="d2">0.0630321496743047</data>
+  <data key="d2">0.06303201461679352</data>
 </edge>
 <edge source="IPGP" target="KR">
-  <data key="d2">-0.05873365864507394</data>
+  <data key="d2">-0.058733787863677715</data>
 </edge>
 <edge source="IR" target="K">
-  <data key="d2">0.07202925680657915</data>
+  <data key="d2">0.07202879900213978</data>
 </edge>
 <edge source="ISRG" target="K">
-  <data key="d2">0.09769552847098568</data>
+  <data key="d2">0.09769437137246229</data>
 </edge>
 <edge source="IT" target="K">
-  <data key="d2">-0.022352908512523008</data>
+  <data key="d2">-0.022353640118973016</data>
 </edge>
 <edge source="IVZ" target="NOC">
-  <data key="d2">0.04540992208579387</data>
+  <data key="d2">0.04541041134213742</data>
 </edge>
 <edge source="JCI" target="K">
-  <data key="d2">0.09546575413362306</data>
+  <data key="d2">0.09546509692579909</data>
 </edge>
 <edge source="JKHY" target="VLO">
-  <data key="d2">0.10611085785925464</data>
+  <data key="d2">0.10611061366562467</data>
 </edge>
 <edge source="JNJ" target="LVS">
-  <data key="d2">-0.00810724973475167</data>
+  <data key="d2">-0.008106234349625315</data>
 </edge>
 <edge source="JNPR" target="K">
-  <data key="d2">0.15358526319780486</data>
+  <data key="d2">0.15358442148001974</data>
 </edge>
 <edge source="K" target="LYV">
-  <data key="d2">-0.09088596684365664</data>
+  <data key="d2">-0.09088592688643835</data>
 </edge>
 <edge source="K" target="UAA">
-  <data key="d2">-0.08501060674168524</data>
+  <data key="d2">-0.08501051885950693</data>
 </edge>
 <edge source="K" target="SNPS">
-  <data key="d2">-0.0713785539994085</data>
+  <data key="d2">-0.07137873472699074</data>
 </edge>
 <edge source="K" target="PWR">
-  <data key="d2">-0.07087516560618558</data>
+  <data key="d2">-0.07087525668455623</data>
 </edge>
 <edge source="K" target="TSLA">
-  <data key="d2">-0.07049060544997435</data>
+  <data key="d2">-0.07049096762913208</data>
 </edge>
 <edge source="K" target="UA">
-  <data key="d2">-0.06875856416748229</data>
+  <data key="d2">-0.06875845176953974</data>
 </edge>
 <edge source="K" target="TTWO">
-  <data key="d2">-0.06248523692644257</data>
+  <data key="d2">-0.06248603238858297</data>
 </edge>
 <edge source="K" target="MRNA">
-  <data key="d2">-0.05862617985838432</data>
+  <data key="d2">-0.05862616514066189</data>
 </edge>
 <edge source="K" target="MPWR">
-  <data key="d2">-0.053716160570470635</data>
+  <data key="d2">-0.053716320970347634</data>
 </edge>
 <edge source="K" target="LVS">
-  <data key="d2">-0.050823599383137213</data>
+  <data key="d2">-0.05082411783449455</data>
 </edge>
 <edge source="K" target="PENN">
-  <data key="d2">-0.048398051451866195</data>
+  <data key="d2">-0.04839828068032809</data>
 </edge>
 <edge source="K" target="PYPL">
-  <data key="d2">-0.04637637098794875</data>
+  <data key="d2">-0.046376863164090475</data>
 </edge>
 <edge source="K" target="QRVO">
-  <data key="d2">-0.03362094883554405</data>
+  <data key="d2">-0.03362075751138793</data>
 </edge>
 <edge source="K" target="NFLX">
-  <data key="d2">-0.03160065838443213</data>
+  <data key="d2">-0.031600908459081006</data>
 </edge>
 <edge source="K" target="NCLH">
-  <data key="d2">-0.02742152198646519</data>
+  <data key="d2">-0.027421624487624904</data>
 </edge>
 <edge source="K" target="PTC">
-  <data key="d2">-0.02260226211231523</data>
+  <data key="d2">-0.02260256469251525</data>
 </edge>
 <edge source="K" target="NVDA">
-  <data key="d2">-0.02151081001467338</data>
+  <data key="d2">-0.021511251765627244</data>
 </edge>
 <edge source="K" target="RCL">
-  <data key="d2">-0.02101638331941216</data>
+  <data key="d2">-0.021016717762913244</data>
 </edge>
 <edge source="K" target="PAYC">
-  <data key="d2">-0.0158922441616492</data>
+  <data key="d2">-0.01589244349377309</data>
 </edge>
 <edge source="K" target="NWSA">
-  <data key="d2">-0.011287286379781587</data>
+  <data key="d2">-0.011286820501095798</data>
 </edge>
 <edge source="K" target="NWS">
-  <data key="d2">-0.010001613101373638</data>
+  <data key="d2">-0.010001345256934696</data>
 </edge>
 <edge source="K" target="KLAC">
-  <data key="d2">-0.007589054627437612</data>
+  <data key="d2">-0.007589470637226961</data>
 </edge>
 <edge source="K" target="NOW">
-  <data key="d2">-0.00309797305592105</data>
+  <data key="d2">-0.0030979182684485913</data>
 </edge>
 <edge source="K" target="TER">
-  <data key="d2">-0.0015307190849001204</data>
+  <data key="d2">-0.0015311181746469635</data>
 </edge>
 <edge source="K" target="TYL">
-  <data key="d2">0.006889551752627942</data>
+  <data key="d2">0.006889611931254116</data>
 </edge>
 <edge source="K" target="LUV">
-  <data key="d2">0.011367795673118866</data>
+  <data key="d2">0.011367923155767403</data>
 </edge>
 <edge source="K" target="LRCX">
-  <data key="d2">0.028021565853886772</data>
+  <data key="d2">0.028021723672851193</data>
 </edge>
 <edge source="K" target="MCHP">
-  <data key="d2">0.03390031381028759</data>
+  <data key="d2">0.033900593598699263</data>
 </edge>
 <edge source="K" target="NXPI">
-  <data key="d2">0.04328953149934721</data>
+  <data key="d2">0.04328973912891117</data>
 </edge>
 <edge source="K" target="KEYS">
-  <data key="d2">0.0660835863427511</data>
+  <data key="d2">0.06608293269650596</data>
 </edge>
 <edge source="K" target="URI">
-  <data key="d2">0.06903979628794055</data>
+  <data key="d2">0.06903908235780463</data>
 </edge>
 <edge source="K" target="MSCI">
-  <data key="d2">0.0745509950622076</data>
+  <data key="d2">0.07455126535868908</data>
 </edge>
 <edge source="K" target="TDG">
-  <data key="d2">0.08144100540849446</data>
+  <data key="d2">0.0814404761368898</data>
 </edge>
 <edge source="K" target="VMC">
-  <data key="d2">0.08745105950634141</data>
+  <data key="d2">0.08745008613721256</data>
 </edge>
 <edge source="K" target="TFX">
-  <data key="d2">0.0987826526312929</data>
+  <data key="d2">0.0987820807887447</data>
 </edge>
 <edge source="K" target="MLM">
-  <data key="d2">0.1032110075465791</data>
+  <data key="d2">0.10321011288396059</data>
 </edge>
 <edge source="K" target="TRMB">
-  <data key="d2">0.12465700545493624</data>
+  <data key="d2">0.12465678621881464</data>
 </edge>
 <edge source="K" target="TXT">
-  <data key="d2">0.13851869295100283</data>
+  <data key="d2">0.1385186519454108</data>
 </edge>
 <edge source="KEY" target="NEM">
-  <data key="d2">0.09855899590918912</data>
+  <data key="d2">0.09855900995087144</data>
 </edge>
 <edge source="KHC" target="WYNN">
-  <data key="d2">-0.047696458193095856</data>
+  <data key="d2">-0.04769743699962461</data>
 </edge>
 <edge source="KHC" target="QCOM">
-  <data key="d2">0.07408083053693443</data>
+  <data key="d2">0.07408104323532957</data>
 </edge>
 <edge source="KMB" target="VLO">
-  <data key="d2">-0.05971038182773138</data>
+  <data key="d2">-0.05971051868760254</data>
 </edge>
 <edge source="KMB" target="MRO">
-  <data key="d2">-0.057874380479225954</data>
+  <data key="d2">-0.057873842123222136</data>
 </edge>
 <edge source="KMB" target="OXY">
-  <data key="d2">-0.05232542980868389</data>
+  <data key="d2">-0.05232556810512321</data>
 </edge>
 <edge source="KMB" target="PXD">
-  <data key="d2">-0.043155984848128714</data>
+  <data key="d2">-0.04315534056311052</data>
 </edge>
 <edge source="KMB" target="XOM">
-  <data key="d2">-0.039329382740464526</data>
+  <data key="d2">-0.03932895951558242</data>
 </edge>
 <edge source="KMB" target="MOS">
-  <data key="d2">-0.023121371188754274</data>
+  <data key="d2">-0.023121226264133776</data>
 </edge>
 <edge source="KMB" target="SLB">
-  <data key="d2">-0.011419295736137343</data>
+  <data key="d2">-0.01141935270328829</data>
 </edge>
 <edge source="KMB" target="MPC">
-  <data key="d2">0.005974885351147916</data>
+  <data key="d2">0.005975675719814969</data>
 </edge>
 <edge source="KMX" target="NOC">
-  <data key="d2">0.10761631811202738</data>
+  <data key="d2">0.10761688882729614</data>
 </edge>
 <edge source="KR" target="LVS">
-  <data key="d2">-0.05694171338208837</data>
+  <data key="d2">-0.05694184552910719</data>
 </edge>
 <edge source="KR" target="LNC">
-  <data key="d2">0.06756948054028175</data>
+  <data key="d2">0.06756944748566102</data>
 </edge>
 <edge source="KR" target="V">
-  <data key="d2">0.07990109423924625</data>
+  <data key="d2">0.07990080341315729</data>
 </edge>
 <edge source="KR" target="WFC">
-  <data key="d2">0.08896205449725758</data>
+  <data key="d2">0.08896170409744138</data>
 </edge>
 <edge source="KR" target="NRG">
-  <data key="d2">0.08897761072680095</data>
+  <data key="d2">0.08897759730032476</data>
 </edge>
 <edge source="KR" target="MA">
-  <data key="d2">0.09434755765881232</data>
+  <data key="d2">0.09434731883783438</data>
 </edge>
 <edge source="KR" target="MSFT">
-  <data key="d2">0.11890981972950337</data>
+  <data key="d2">0.11890977923299488</data>
 </edge>
 <edge source="LEG" target="LMT">
-  <data key="d2">0.07916802954815301</data>
+  <data key="d2">0.07916819866936432</data>
 </edge>
 <edge source="LH" target="VLO">
-  <data key="d2">0.02681675052120354</data>
+  <data key="d2">0.026816519516810692</data>
 </edge>
 <edge source="LHX" target="VTRS">
-  <data key="d2">-0.09663548561867283</data>
+  <data key="d2">-0.09663627890490066</data>
 </edge>
 <edge source="LKQ" target="NEM">
-  <data key="d2">0.0410880244917399</data>
+  <data key="d2">0.04108760724074634</data>
 </edge>
 <edge source="LLY" target="WYNN">
-  <data key="d2">0.10424106919880809</data>
+  <data key="d2">0.1042406349457288</data>
 </edge>
 <edge source="LMT" target="VTRS">
-  <data key="d2">-0.10300602212613877</data>
+  <data key="d2">-0.10300553463327741</data>
 </edge>
 <edge source="LMT" target="MHK">
-  <data key="d2">-0.07373352357863573</data>
+  <data key="d2">-0.0737336626941</data>
 </edge>
 <edge source="LMT" target="LVS">
-  <data key="d2">-0.06294024715410958</data>
+  <data key="d2">-0.06294029096510013</data>
 </edge>
 <edge source="LMT" target="TPR">
-  <data key="d2">-0.06288777865762933</data>
+  <data key="d2">-0.06288770956530441</data>
 </edge>
 <edge source="LMT" target="RL">
-  <data key="d2">-0.026111627356687785</data>
+  <data key="d2">-0.026111630304952938</data>
 </edge>
 <edge source="LMT" target="MU">
-  <data key="d2">0.0078012477268751945</data>
+  <data key="d2">0.007801186438047097</data>
 </edge>
 <edge source="LMT" target="NKE">
-  <data key="d2">0.0319153540579431</data>
+  <data key="d2">0.03191506861555582</data>
 </edge>
 <edge source="LMT" target="ULTA">
-  <data key="d2">0.045906620334073826</data>
+  <data key="d2">0.045906331560342586</data>
 </edge>
 <edge source="LMT" target="MAR">
-  <data key="d2">0.046909290759472554</data>
+  <data key="d2">0.04690852470297955</data>
 </edge>
 <edge source="LMT" target="SBUX">
-  <data key="d2">0.07161971628423688</data>
+  <data key="d2">0.07161940673284023</data>
 </edge>
 <edge source="LMT" target="RHI">
-  <data key="d2">0.07667426195635299</data>
+  <data key="d2">0.07667373293060993</data>
 </edge>
 <edge source="LMT" target="PNR">
-  <data key="d2">0.0884627463065596</data>
+  <data key="d2">0.08846235500901799</data>
 </edge>
 <edge source="LMT" target="SPG">
-  <data key="d2">0.08884143193977108</data>
+  <data key="d2">0.0888409975028827</data>
 </edge>
 <edge source="LMT" target="TFC">
-  <data key="d2">0.09217267026544493</data>
+  <data key="d2">0.09217277465860142</data>
 </edge>
 <edge source="LMT" target="NTRS">
-  <data key="d2">0.1067036761697241</data>
+  <data key="d2">0.10670396341492183</data>
 </edge>
 <edge source="LMT" target="ZION">
-  <data key="d2">0.1096506694085185</data>
+  <data key="d2">0.10965054335056827</data>
 </edge>
 <edge source="LMT" target="ODFL">
-  <data key="d2">0.12961341593438</data>
+  <data key="d2">0.1296127869525516</data>
 </edge>
 <edge source="LMT" target="TEL">
-  <data key="d2">0.13787568889396706</data>
+  <data key="d2">0.13787542121885177</data>
 </edge>
 <edge source="LNT" target="LVS">
-  <data key="d2">0.03369159647821645</data>
+  <data key="d2">0.033691391399134726</data>
 </edge>
 <edge source="LVS" target="XEL">
-  <data key="d2">0.03966468035259314</data>
+  <data key="d2">0.039664784010830026</data>
 </edge>
 <edge source="LVS" target="MKC">
-  <data key="d2">0.0471388443877538</data>
+  <data key="d2">0.0471381587219106</data>
 </edge>
 <edge source="MCD" target="OXY">
-  <data key="d2">0.038631190328898835</data>
+  <data key="d2">0.03863035465796415</data>
 </edge>
 <edge source="MGM" target="NOC">
-  <data key="d2">0.04073049588728541</data>
+  <data key="d2">0.04073150995457066</data>
 </edge>
 <edge source="MKTX" target="VLO">
-  <data key="d2">0.043135952104104404</data>
+  <data key="d2">0.04313571028115754</data>
 </edge>
 <edge source="MNST" target="SLB">
-  <data key="d2">0.02721689363449892</data>
+  <data key="d2">0.027217270696451232</data>
 </edge>
 <edge source="MRK" target="WYNN">
-  <data key="d2">-0.052207216612847274</data>
+  <data key="d2">-0.052207090292039085</data>
 </edge>
 <edge source="MTB" target="NFLX">
-  <data key="d2">0.04494146707662358</data>
+  <data key="d2">0.04494175199710995</data>
 </edge>
 <edge source="NEM" target="RF">
-  <data key="d2">-0.00289261968402149</data>
+  <data key="d2">-0.0028927983859382074</data>
 </edge>
 <edge source="NEM" target="OMC">
-  <data key="d2">0.06063117996339593</data>
+  <data key="d2">0.060630356992307885</data>
 </edge>
 <edge source="NEM" target="ROST">
-  <data key="d2">0.06686752081679495</data>
+  <data key="d2">0.06686774293354594</data>
 </edge>
 <edge source="NEM" target="PCAR">
-  <data key="d2">0.06857995359355075</data>
+  <data key="d2">0.06857925636359191</data>
 </edge>
 <edge source="NEM" target="SYY">
-  <data key="d2">0.09182996763320721</data>
+  <data key="d2">0.09183001713366046</data>
 </edge>
 <edge source="NEM" target="UPS">
-  <data key="d2">0.09402970623573519</data>
+  <data key="d2">0.09402851231938594</data>
 </edge>
 <edge source="NEM" target="RJF">
-  <data key="d2">0.11271282340333731</data>
+  <data key="d2">0.11271310526454474</data>
 </edge>
 <edge source="NOC" target="VTRS">
-  <data key="d2">-0.10648848947065444</data>
+  <data key="d2">-0.10648767880734678</data>
 </edge>
 <edge source="NOC" target="VFC">
-  <data key="d2">-0.07236216571232326</data>
+  <data key="d2">-0.07236210874844128</data>
 </edge>
 <edge source="NOC" target="PVH">
-  <data key="d2">-0.06813311776460111</data>
+  <data key="d2">-0.06813254265236618</data>
 </edge>
 <edge source="NOC" target="UAL">
-  <data key="d2">0.014656309610345598</data>
+  <data key="d2">0.014656755804817349</data>
 </edge>
 <edge source="NOC" target="NTAP">
-  <data key="d2">0.05904574512035676</data>
+  <data key="d2">0.059046210738566994</data>
 </edge>
 <edge source="NOC" target="XRAY">
-  <data key="d2">0.06650422456741722</data>
+  <data key="d2">0.06650449250310611</data>
 </edge>
 <edge source="NOC" target="STX">
-  <data key="d2">0.0685482469487617</data>
+  <data key="d2">0.06854975890757253</data>
 </edge>
 <edge source="NOC" target="PKG">
-  <data key="d2">0.08400514497867359</data>
+  <data key="d2">0.08400613202208489</data>
 </edge>
 <edge source="NOC" target="SYF">
-  <data key="d2">0.08834252458903835</data>
+  <data key="d2">0.08834287701031963</data>
 </edge>
 <edge source="NOC" target="VNO">
-  <data key="d2">0.11386114067315276</data>
+  <data key="d2">0.11386141624868619</data>
 </edge>
 <edge source="NOC" target="WBA">
-  <data key="d2">0.13119690658954797</data>
+  <data key="d2">0.13119730641341681</data>
 </edge>
 <edge source="PG" target="VLO">
-  <data key="d2">-0.007784944316548223</data>
+  <data key="d2">-0.0077846265542355145</data>
 </edge>
 <edge source="REGN" target="VLO">
-  <data key="d2">0.05247085233642682</data>
+  <data key="d2">0.05247087465990282</data>
 </edge>
 <edge source="SJM" target="TECH">
-  <data key="d2">-0.008310280715670535</data>
+  <data key="d2">-0.008310504342044032</data>
 </edge>
 <edge source="SJM" target="SPGI">
-  <data key="d2">0.07425342437955328</data>
+  <data key="d2">0.07425418354181122</data>
 </edge>
 <edge source="SJM" target="TMO">
-  <data key="d2">0.09564720200217315</data>
+  <data key="d2">0.09564727117329985</data>
 </edge>
 <edge source="SLB" target="VRSK">
-  <data key="d2">0.025963554746044438</data>
+  <data key="d2">0.02596424667619192</data>
 </edge>
 <edge source="SO" target="WYNN">
-  <data key="d2">0.013159408550775104</data>
+  <data key="d2">0.013159516958102285</data>
 </edge>
 <edge source="TSLA" target="VZ">
-  <data key="d2">0.03479696488331146</data>
+  <data key="d2">0.03479816913923935</data>
 </edge>
 <edge source="TT" target="VLO">
-  <data key="d2">0.09566704069151957</data>
+  <data key="d2">0.09566671782412088</data>
 </edge>
 <edge source="TTWO" target="WMT">
-  <data key="d2">0.03450369423207754</data>
+  <data key="d2">0.034504446844609626</data>
 </edge>
 <edge source="VLO" target="WST">
-  <data key="d2">0.07877166764047694</data>
+  <data key="d2">0.07877211064354209</data>
 </edge>
 <edge source="VLO" target="ZTS">
-  <data key="d2">0.08512523685623373</data>
+  <data key="d2">0.08512523601624936</data>
 </edge>
 <edge source="WEC" target="WYNN">
-  <data key="d2">0.006248020708415851</data>
+  <data key="d2">0.006247873318027427</data>
 </edge>
 </graph></graphml>
